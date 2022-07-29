@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 12
-adjust
-> v. 맞추다, 조정하다, 조절하다
-
-make sure
-> pv. 확인하다
-
-find out
-> pv. 찾아내다, 발견하다
-
 scatter
 > v. 흩어지게 하다, 흐트러뜨리다
 
@@ -726,12 +717,6 @@ convention
 
 localization
 > n. 어떤 것을 성격상 지역적으로 만들거나 특정 장소로 제한하는 과정
-# test
-salient
-> adj. 가장 눈에 띄거나 중요한
-
-fuse
-> v. 결합하거나 혼합하여 하나의 개체가 되다
 
 precise
 > adj. 정확한
@@ -748,15 +733,9 @@ reduce
 underlie
 > v. -의 아래에 있다, -의 아래에 놓이다
 
-exceed
-> v. 초과하다, 한도를 넘다
-
 determine
 > v. 결정하다, 정하다, 끝내다, 결심하다
-
-whether
-> conj. -인지 어떤지, -이든지 아니든지, -하는지에 대한 여부
-
+# test
 pit
 > n. 함정, 지옥, 구덩이
 
@@ -2042,4 +2021,34 @@ necessary
 
 consistency
 > n. 일관성
+
+salient
+> adj. 가장 눈에 띄거나 중요한
+
+fuse
+> v. 결합하다, 혼합하다
+
+exceed
+> v. 초과하다, 한도를 넘다
+
+whether
+> conj. -인지 어떤지, -이든지 아니든지, -하는지에 대한 여부
+
+adjust
+> v. 맞추다, 조정하다, 조절하다
+
+make sure
+> pv. 확인하다
+
+find out
+> pv. 찾아내다, 발견하다
+
+embassy
+> n. 대사관
+
+consulate
+> n. 영사관
+
+obligor
+> n. 채무자
 

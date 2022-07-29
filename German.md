@@ -73,15 +73,6 @@ und
 > conj. 그리고
 
 # 2
-flughafen
-> n. 공항
-
-läuft
-> v. 달리다
-
-nicht
-> adv. not, 아닌
-
 Jacke
 > n. 자켓, 외투
 
@@ -174,21 +165,12 @@ unter
 
 Hände
 > n. 손
-# test
+
 Gärten
 > n. 정원(복수형)
 
-können
-> v. 할 수 있다
-
-öffnen
-> v. 열다
-
 dünn
 > adj. 얇은, 마른
-
-müssen
-> v. -해야 한다
 
 aber
 > conj. but, 그러나
@@ -201,10 +183,7 @@ Kaufhaus
 
 arbeiten
 > v. 일하다
-
-hier
-> adv. 여기
-
+# test
 brauchen
 > v. 필요하다
 
@@ -226,7 +205,7 @@ billig
 rote
 > n. 빨간색
 
-warm [wárm]
+warm [varm]
 > adj. 따뜻한
 
 für [fyːɐ̯]
@@ -313,4 +292,37 @@ Kaffee [káfe]
 
 mein(meine) [maɪn]
 > n. my, 나의
+
+können [kœ́nǝn]
+> v. 할 수 있다
+
+öffnen [œ́fnǝn]
+> v. 열다
+
+müssen [mʏ́sǝn]
+> v. -해야 한다
+
+hier [hi:r]
+> adv. 여기
+
+Flughafen [ˈfluːkˌhaːfn̩]
+> n. 공항
+
+läuft [lɔʏft]
+> v. laufen의 3인칭 단수 현재형, 달리다
+
+nicht [nɪçt]
+> adv. not, 아닌, 아니다, 않다
+
+laufen [láʊfǝn]
+> v. 달리다, 뛰다
+
+Im Allgemeinen [im_Állgemeínen]
+> adv. 일반적으로
+
+muss [mʊs]
+> v. müssen의 1·3인칭 단수 현재형, -해야 한다
+
+jeder [jé:dǝr]
+> pron. 각각의, 저마다의, 모든
 
