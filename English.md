@@ -2052,3 +2052,6 @@ consulate
 obligor
 > n. 채무자
 
+density
+> n. 밀도
+
