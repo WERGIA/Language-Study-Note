@@ -2055,3 +2055,6 @@ obligor
 density
 > n. 밀도
 
+innovation
+> n. 기술혁신
+
