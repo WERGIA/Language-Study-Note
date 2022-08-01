@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 12
-scatter
-> v. 흩어지게 하다, 흐트러뜨리다
-
-however
-> adv. 그러나
-
-attribute
-> n. 특성, 속성
-
 indicate
 > v. 가리키다
 
@@ -735,7 +726,7 @@ underlie
 
 determine
 > v. 결정하다, 정하다, 끝내다, 결심하다
-# test
+
 pit
 > n. 함정, 지옥, 구덩이
 
@@ -745,27 +736,15 @@ despair
 mathematical
 > adj. 수학의, 매우 정확한
 
-upon
-> prep. -에, -에 대하여, 어떤 일이 발생한 이후에 머지 않아 다른 일이 발생하는 것을 언급하기 위해 사용
-
-whatever
-> pron. 어떠한 일이나 양을 언급할 때 제한이 없다는 것을 강조하는 데 사용
-
-prompt
-> v. 자극하다. 생각나게 하다, (메시지 따위가)표시되다
-
 reflective
 > adj. 반사적인, 반사하는
-
-notation
-> n. 표기법
 
 aspect
 > n. 방향, 방면, 양상, 외양, 모습
 
 must
-> v. ~해야만 한다(should보다 강한)
-
+> v. -해야만 한다(should보다 강한)
+# test
 in a/the
 > prep ph. -에, -에서
 
@@ -2057,4 +2036,34 @@ density
 
 innovation
 > n. 기술혁신
+
+upon
+> prep. -에, -에 대하여, 어떤 일이 발생한 이후에 머지 않아 다른 일이 발생하는 것을 언급하기 위해 사용
+
+whatever
+> pron. 어떠한 일이나 양을 언급할 때 제한이 없다는 것을 강조하는 데 사용
+
+prompt
+> v. 자극하다. 생각나게 하다, (메시지 따위가)표시되다
+
+notation
+> n. 표기법
+
+scatter
+> v. 흩어지게 하다, 흐트러뜨리다
+
+however
+> adv. 그러나
+
+attribute
+> n. 특성, 속성
+
+real property
+> n. 부동산
+
+mortgage
+> n. 대출, 융자, 모기지
+
+covenant
+> n. 계약
 

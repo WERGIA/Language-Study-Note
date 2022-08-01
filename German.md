@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-schwester
-> n. 자매
-
-bruder
-> n. 형제
-
-mann
-> n. 남성, 남편
-
 danke schön
 > g. 감사합니다
 
@@ -183,24 +174,15 @@ Kaufhaus
 
 arbeiten
 > v. 일하다
-# test
-brauchen
-> v. 필요하다
 
 Hilfe
 > n. 도움
-
-mögen
-> v. 좋아하다
 
 schwarze
 > n. 검은색
 
 schön
 > adj. 아름다운
-
-billig
-> adj. 값이 싼
 
 rote
 > n. 빨간색
@@ -210,17 +192,14 @@ warm [varm]
 
 für [fyːɐ̯]
 > prep. for, -을 위해
-
-wunderbar [wúnderbar]
-> adj. 아주 멋진
-
-nehmen [néhmen]
+# test
+nehmen [né:mǝn]
 > v. 가져가다
 
-machen [máchen]
+machen [máxǝn]
 > v. 만들다
 
-Kasse [Kásse]
+Kasse [kásǝ]
 > n. 현금, 캐셔
 
 super [ˈzuːpɐ]
@@ -322,6 +301,33 @@ Im Allgemeinen [im_Állgemeínen]
 
 muss [mʊs]
 > v. müssen의 1·3인칭 단수 현재형, -해야 한다
+
+brauchen [bráʊxǝn]
+> v. 필요하다
+
+mögen [mǿ:ɡǝn]
+> v. 좋아하다
+
+billig [bɪ́lɪç]
+> adj. 값이 싼
+
+wunderbar [wúnderbar]
+> adj. 아주 멋진
+
+Schwester [ʃvέstǝr]
+> n. 자매
+
+Bruder [brú:dǝr]
+> n. 형제
+
+Mann [man]
+> n. 남성, 남편
+
+ausländisch [ˈaʊ̯slɛndɪʃ]
+> adj. 외국의
+
+Einzelperson [ˈaɪ̯nʦl̩pɛʁˌzoːn]
+> n. 개인
 
 jeder [jé:dǝr]
 > pron. 각각의, 저마다의, 모든
