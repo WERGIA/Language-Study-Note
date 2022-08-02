@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-danke schön
-> g. 감사합니다
-
-Auf Wiedersehen
-> g. 다음에 다시 봐요
-
-du
-> n. you, 당신, 너
-
 frau
 > n. 부인, 아내
 
@@ -192,12 +183,6 @@ warm [varm]
 
 für [fyːɐ̯]
 > prep. for, -을 위해
-# test
-nehmen [né:mǝn]
-> v. 가져가다
-
-machen [máxǝn]
-> v. 만들다
 
 Kasse [kásǝ]
 > n. 현금, 캐셔
@@ -222,8 +207,8 @@ Brot [bro:t]
 
 Wein [vaɪn]
 > n. 와인
-
-danke [dáŋkǝ]
+# test
+Danke [dáŋkǝ]
 > n. thanks, 고맙다
 
 Sein(Seine) [zaɪn]
@@ -331,4 +316,25 @@ Einzelperson [ˈaɪ̯nʦl̩pɛʁˌzoːn]
 
 jeder [jé:dǝr]
 > pron. 각각의, 저마다의, 모든
+
+nehmen [né:mǝn]
+> v. 가져가다
+
+machen [máxǝn]
+> v. 만들다
+
+Danke Schön [ˈdaŋkə_ʃøːn]
+> g. 감사합니다
+
+Auf Wiedersehen [aʊ̯f_ˈviːdɐˌzeːən]
+> g. 다음에 다시 봐요
+
+Du [du:]
+> n. you, 당신, 너
+
+bevollmächtigen [bǝfɔ́lmεçtɪɡǝn]
+> v. 누구에게 무엇의 전권을 맡기다
+
+Gesellschaft [ɡǝzέlʃaft]
+> n. 회사
 

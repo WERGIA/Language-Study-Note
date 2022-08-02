@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 12
-indicate
-> v. 가리키다
-
-due
-> adj. 정당한, 도착 예정인
-
-institutional
-> adj. 제도적인
-
 might
 > n. (강력한)힘 또는 권력   
 > v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다   
@@ -744,15 +735,9 @@ aspect
 
 must
 > v. -해야만 한다(should보다 강한)
-# test
+
 in a/the
 > prep ph. -에, -에서
-
-at once
-> prep ph. 즉시, 동시에
-
-at times
-> prep ph. 때때로
 
 overall
 > adj. 전반적인
@@ -774,7 +759,7 @@ robust
 
 i.e.
 > abb. 즉
-
+# test
 vice versa
 > adv. 그 반대의 경우도 마찬가지로
 
@@ -798,7 +783,7 @@ altitude
 > n. 고도
 
 once
-> adv. 한번
+> adv. 한 번
 > conj. ~하면
 
 # 17
@@ -1704,9 +1689,6 @@ explain
 describe
 > v. 묘사하다, 설명하다, 평하다
 
-substitute
-> n. 대리인
-
 eligible
 > adj. 자격이 있는
 
@@ -2066,4 +2048,28 @@ mortgage
 
 covenant
 > n. 계약
+
+at once
+> prep ph. 즉시, 동시에
+
+at times
+> prep ph. 때때로
+
+indicate
+> v. 가리키다
+
+due
+> adj. 정당한, 도착 예정인
+
+institutional
+> adj. 제도적인
+
+interest paid
+> n. 이자 지급
+
+domestic
+> adj. 국내의
+
+substitute
+> n. 대리인
 
