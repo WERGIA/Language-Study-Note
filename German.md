@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 1
-frau
-> n. 부인, 아내
-
-sohn
-> n. 아들
-
-tochter
-> n. 딸
-
 vater
 > n. 아버지
 
@@ -207,15 +198,12 @@ Brot [bro:t]
 
 Wein [vaɪn]
 > n. 와인
-# test
+
 Danke [dáŋkǝ]
 > n. thanks, 고맙다
 
 Sein(Seine) [zaɪn]
 > n. his, 그의
-
-Wo [vo:]
-> n. where, 어디
 
 Deutsch [dɔʏtʃ]
 > adj. 독일의, 독일에 관한
@@ -238,7 +226,7 @@ oder [ó:dǝr]
 
 jetzt [jεtst]
 > adv. 지금
-
+# test
 tschüss [tʃʏs]
 > n. bye, 안녕
 
@@ -337,4 +325,25 @@ bevollmächtigen [bǝfɔ́lmεçtɪɡǝn]
 
 Gesellschaft [ɡǝzέlʃaft]
 > n. 회사
+
+Wo [vo:]
+> n. where, 어디
+
+Frau [fraʊ]
+> n. 부인, 아내
+
+Sohn [zo:n]
+> n. 아들
+
+Tochter [tɔ́xtǝr]
+> n. 딸
+
+mit [mɪt]
+> prep. -와 함께, -와 더불어, -을 데리고
+
+Einkommen [ˈaɪ̯nˌkɔmən]
+> n. 소득, 봉급
+
+in [ɪn]
+> prep. 무엇의 안(가운데)에
 

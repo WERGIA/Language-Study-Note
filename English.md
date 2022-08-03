@@ -36,17 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 12
-might
-> n. (강력한)힘 또는 권력   
-> v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)~일지도 모른다   
-> v. (현재 또는 과거의 가능성으로)~할 수 있다
-
-recalibration 
-> n. 재교정, 재측정
-
-extra
-> adj. 추가적인, 특별한, 여분의
-
 proceeding
 > n. 진행
 
@@ -759,18 +748,6 @@ robust
 
 i.e.
 > abb. 즉
-# test
-vice versa
-> adv. 그 반대의 경우도 마찬가지로
-
-exploit
-> v. 개발하다, 개척하다, 착취하다, 부당하게 이용하다
-
-then
-> adv. 그 때, 문제의 시간에, 그 후, 이 경우에, 따라서
-
-utilize
-> v. 활용하다, 이용하다
 
 available
 > adj. 유효한, 가능한, 사용가능한
@@ -784,7 +761,7 @@ altitude
 
 once
 > adv. 한 번
-> conj. ~하면
+> conj. -하면
 
 # 17
 maintenance
@@ -792,7 +769,7 @@ maintenance
 
 maintain
 > v. 유지하다
-
+# test
 loosely
 > adv. 느슨하게
 
@@ -835,9 +812,6 @@ federal
 
 gross income
 > n. 총수입
-
-certain
-> adj. 어떤, 특정한
 
 distant
 > adj. 먼
@@ -2069,6 +2043,35 @@ interest paid
 
 domestic
 > adj. 국내의
+
+vice versa
+> adv. 그 반대의 경우도 마찬가지로
+
+exploit
+> v. 개발하다, 개척하다, 착취하다, 부당하게 이용하다
+
+then
+> adv. 그 때, 문제의 시간에, 그 후, 이 경우에, 따라서
+
+utilize
+> v. 활용하다, 이용하다
+
+might
+> n. (강력한)힘 또는 권력   
+> v. (타인의 말 또는 문서의 내용을 전달할 때)(may의 과거로)-일지도 모른다   
+> v. (현재 또는 과거의 가능성으로)-할 수 있다
+
+recalibration 
+> n. 재교정, 재측정
+
+extra
+> adj. 추가적인, 특별한, 여분의
+
+certain
+> adj. 어떤, 특정한
+
+securities
+> n. 증권
 
 substitute
 > n. 대리인
