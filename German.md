@@ -35,16 +35,6 @@ idiom. 관용어구 idiom
 
 art. 관사 article
 
-# 1
-vater
-> n. 아버지
-
-ich
-> n. 나
-
-und
-> conj. 그리고
-
 # 2
 Jacke
 > n. 자켓, 외투
@@ -226,7 +216,7 @@ oder [ó:dǝr]
 
 jetzt [jεtst]
 > adv. 지금
-# test
+
 tschüss [tʃʏs]
 > n. bye, 안녕
 
@@ -245,15 +235,12 @@ Kaffee [káfe]
 mein(meine) [maɪn]
 > n. my, 나의
 
-können [kœ́nǝn]
-> v. 할 수 있다
-
 öffnen [œ́fnǝn]
 > v. 열다
 
 müssen [mʏ́sǝn]
 > v. -해야 한다
-
+# test
 hier [hi:r]
 > adv. 여기
 
@@ -346,4 +333,25 @@ Einkommen [ˈaɪ̯nˌkɔmən]
 
 in [ɪn]
 > prep. 무엇의 안(가운데)에
+
+können [kœ́nǝn]
+> v. 할 수 있다
+
+Vater [fá:tǝr]
+> n. 아버지
+
+Ich [ɪç]
+> n. 나
+
+und [ʊnt]
+> conj. 그리고
+
+den [de(:)n]
+> pron. 관사 및 대명사 der의 단수 4격
+
+Vereinigten Staaten [fεr│áinɪçtǝn_ʃtá:tǝn]
+> n. 미국
+
+einschließlich [áɪnʃli:slɪç]
+> adv, prep. -을 포함하여
 

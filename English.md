@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 12
-proceeding
-> n. 진행
-
-compress
-> v. 압축하다, 압착하다, 요약하다
-
-perform
-> v. 행하다, 공연하다, 작동하다, 임무를 이행하다
-
 excute
 > v. 실행하다, 처형하다
 
@@ -355,9 +346,6 @@ deliver
 
 awful
 > adj. 무서운, 끔찍한
-
-equivalent
-> adj. (의미, 중요도가)동등한, 맞먹는
 
 specifically
 > adv. 구체적으로 특별히
@@ -769,7 +757,7 @@ maintenance
 
 maintain
 > v. 유지하다
-# test
+
 loosely
 > adv. 느슨하게
 
@@ -792,15 +780,12 @@ require
 inefficient
 > adj. 무능한, 비효율적인
 
-at a good pace
-> prep ph. 상당한 속도로
-
 at high speed
 > prep ph. 급속히
 
 at low price
 > prep ph. 낮은 가격으로
-
+# test
 foreign
 > adj. 외국의
 
@@ -2075,4 +2060,25 @@ securities
 
 substitute
 > n. 대리인
+
+at a good pace
+> prep ph. 상당한 속도로
+
+proceeding
+> n. 진행
+
+compress
+> v. 압축하다, 압착하다, 요약하다
+
+perform
+> v. 행하다, 공연하다, 작동하다, 임무를 이행하다
+
+dividends
+> n. 배당금
+
+qualifying
+> n. 자격
+
+equivalent
+> adj. (의미, 중요도가)동등한, 맞먹는
 
