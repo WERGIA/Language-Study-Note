@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 12
-excute
-> v. 실행하다, 처형하다
-
-unpublished
-> adj. 널리 알려지지 않은
-
-contribute
-> v. 기여하다
-
 unfurl
 > v. (깃발 혹은 돛 따위가 바람에 의해)펴지다
 
@@ -798,23 +789,14 @@ federal
 gross income
 > n. 총수입
 
-distant
-> adj. 먼
-
 modify
 > v. 수정하다
-
-proximity
-> n. 공간, 시간 또는 관계에서의 가까움
 
 veriety
 > n. 종류
 
 illustrate
 > v. 설명하다
-
-especially
-> adv. 특히
 
 assessument
 > n. 평가
@@ -2073,12 +2055,36 @@ compress
 perform
 > v. 행하다, 공연하다, 작동하다, 임무를 이행하다
 
-dividends
-> n. 배당금
-
 qualifying
 > n. 자격
 
 equivalent
 > adj. (의미, 중요도가)동등한, 맞먹는
+
+distant
+> adj. 먼
+
+proximity
+> n. (공간, 시간 또는 관계에서의)가까움
+
+especially
+> adv. 특히
+
+excute
+> v. 실행하다, 처형하다
+
+unpublished
+> adj. 널리 알려지지 않은
+
+contribute
+> v. 기여하다
+
+dividends
+> n. 배당금
+
+loyalties
+> n. 로열티
+
+endorsement
+> n. 보증, 배서
 

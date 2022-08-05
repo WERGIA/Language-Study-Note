@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-Jacke
-> n. 자켓, 외투
-
-sind
-> v. are
-
-ein(eine)
-> art. 영어에서 a와 비슷한 용도로 사용
-
 nett
 > adj. 친절한
 
@@ -240,7 +231,7 @@ mein(meine) [maɪn]
 
 müssen [mʏ́sǝn]
 > v. -해야 한다
-# test
+
 hier [hi:r]
 > adv. 여기
 
@@ -262,15 +253,9 @@ Im Allgemeinen [im_Állgemeínen]
 muss [mʊs]
 > v. müssen의 1·3인칭 단수 현재형, -해야 한다
 
-brauchen [bráʊxǝn]
-> v. 필요하다
-
-mögen [mǿ:ɡǝn]
-> v. 좋아하다
-
 billig [bɪ́lɪç]
 > adj. 값이 싼
-
+# test
 wunderbar [wúnderbar]
 > adj. 아주 멋진
 
@@ -328,9 +313,6 @@ Tochter [tɔ́xtǝr]
 mit [mɪt]
 > prep. -와 함께, -와 더불어, -을 데리고
 
-Einkommen [ˈaɪ̯nˌkɔmən]
-> n. 소득, 봉급
-
 in [ɪn]
 > prep. 무엇의 안(가운데)에
 
@@ -352,6 +334,27 @@ den [de(:)n]
 Vereinigten Staaten [fεr│áinɪçtǝn_ʃtá:tǝn]
 > n. 미국
 
+brauchen [bráʊxǝn]
+> v. 필요하다
+
+mögen [mǿ:ɡǝn]
+> v. 좋아하다
+
+Jacke [jákǝ]
+> n. 자켓, 외투
+
+sind [zɪnt]
+> v. are, sein의 1·3인칭 복수 현재형
+
+ein(eine) [aɪn(áɪnǝ)]
+> art. 영어에서 a와 비슷한 용도로 사용
+
 einschließlich [áɪnʃli:slɪç]
 > adv, prep. -을 포함하여
+
+Einkommen [ˈaɪ̯nˌkɔmən]
+> n. 소득, 봉급
+
+weiche [vaɪç]
+> adj. 부드러운
 
