@@ -776,7 +776,7 @@ at high speed
 
 at low price
 > prep ph. 낮은 가격으로
-# test
+
 foreign
 > adj. 외국의
 
@@ -797,7 +797,7 @@ veriety
 
 illustrate
 > v. 설명하다
-
+# test
 assessument
 > n. 평가
 
