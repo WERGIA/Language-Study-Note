@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-nett
-> adj. 친절한
-
-sehr
-> adv. 아주, 매우
-
-Arzt
-> n. 의사
-
 im
 > prep. -에서
 
@@ -255,7 +246,7 @@ muss [mʊs]
 
 billig [bɪ́lɪç]
 > adj. 값이 싼
-# test
+
 wunderbar [wúnderbar]
 > adj. 아주 멋진
 
@@ -277,15 +268,12 @@ Einzelperson [ˈaɪ̯nʦl̩pɛʁˌzoːn]
 jeder [jé:dǝr]
 > pron. 각각의, 저마다의, 모든
 
-nehmen [né:mǝn]
-> v. 가져가다
-
 machen [máxǝn]
 > v. 만들다
 
 Danke Schön [ˈdaŋkə_ʃøːn]
 > g. 감사합니다
-
+# test
 Auf Wiedersehen [aʊ̯f_ˈviːdɐˌzeːən]
 > g. 다음에 다시 봐요
 
@@ -357,4 +345,25 @@ Einkommen [ˈaɪ̯nˌkɔmən]
 
 weiche [vaɪç]
 > adj. 부드러운
+
+nehmen [né:mǝn]
+> v. 가져가다
+
+nett [nεt]
+> adj. 친절한
+
+sehr [ze:r]
+> adv. 아주, 매우
+
+Arzt [a:rtst]
+> n. 의사
+
+direkt [dirέkt]
+> adj. 직접의
+
+Ausübung [aʊ́s|ʏ́bung]
+> n. 실행, 집행
+
+von [fɔn]
+> prep. -에서, -로부터
 

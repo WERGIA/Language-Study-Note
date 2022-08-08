@@ -35,17 +35,7 @@ idiom. 관용어구 idiom
 
 pat. 회화패턴 pattern
 
-# 12
-unfurl
-> v. (깃발 혹은 돛 따위가 바람에 의해)펴지다
-
-become
-> v. ~이 되다
-
 # 13
-reimplementation
-> n. 재구현
-
 reactive
 > adj. 반응적인, 자극에 대해 반응을 보이는
 
@@ -797,9 +787,6 @@ veriety
 
 illustrate
 > v. 설명하다
-# test
-assessument
-> n. 평가
 
 intuitive
 > adj. 직관적인
@@ -827,7 +814,7 @@ at the rate of
 
 bite
 > v. 물다
-
+# test
 bitten
 > v. (bite)의 과거형, 물리다  
 > adj. 물린
@@ -1981,9 +1968,6 @@ however
 attribute
 > n. 특성, 속성
 
-real property
-> n. 부동산
-
 mortgage
 > n. 대출, 융자, 모기지
 
@@ -2037,9 +2021,6 @@ extra
 certain
 > adj. 어떤, 특정한
 
-securities
-> n. 증권
-
 substitute
 > n. 대리인
 
@@ -2087,4 +2068,25 @@ loyalties
 
 endorsement
 > n. 보증, 배서
+
+assessument
+> n. 평가
+
+unfurl
+> v. (깃발 혹은 돛 따위가 바람에 의해)펴지다
+
+become
+> v. -이 되다
+
+reimplementation
+> n. 재구현
+
+securities
+> n. 증권
+
+real property
+> n. 부동산
+
+pension
+> n. 연금
 
