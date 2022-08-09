@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-im
-> prep. -에서
-
-Supermarkt
-> n. 슈퍼 마켓
-
-kommt
-> v. 오다
-
 zu
 > adv. to, 에게
 
@@ -366,4 +357,16 @@ Ausübung [aʊ́s|ʏ́bung]
 
 von [fɔn]
 > prep. -에서, -로부터
+
+im [ɪm]
+> prep. -에서
+
+Supermarkt [ˈzuːpɐˌmaʁkt]
+> n. 슈퍼 마켓
+
+kommt [kɔmt]
+> v. kommen의 3인칭 단수형, 오다
+
+kommen [kɔ́mǝn]
+> v. 오다
 
