@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 13
-reactive
-> adj. 반응적인, 자극에 대해 반응을 보이는
-
-extension
-> n. 확장, 연장, 신장
-
-implementation
-> n. 결정 또는 계획을 실행하는 과정, 실행
-
 compatibility
 > n. 적합성, 호환성
 
@@ -814,7 +805,7 @@ at the rate of
 
 bite
 > v. 물다
-# test
+
 bitten
 > v. (bite)의 과거형, 물리다  
 > adj. 물린
@@ -824,9 +815,6 @@ promiscuity
 
 anyone
 > pron. 누군가, 누구든지
-
-prefer
-> v. 취하다, -에게 우선권을 주다, -쪽을 좋아하다
 
 inspect
 > v. 점검하다
@@ -845,7 +833,7 @@ assign
 
 differently
 > adv. 다르게, 따로
-
+# test
 treatment
 > n. 대우, 취급법, 치료
 
@@ -2089,4 +2077,16 @@ real property
 
 pension
 > n. 연금
+
+prefer
+> v. 취하다, -에게 우선권을 주다, -쪽을 좋아하다
+
+reactive
+> adj. 반응적인, 자극에 대해 반응을 보이는
+
+extension
+> n. 확장, 연장, 신장
+
+implementation
+> n. 결정 또는 계획을 실행하는 과정, 실행
 

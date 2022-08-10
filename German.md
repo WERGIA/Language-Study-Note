@@ -264,7 +264,7 @@ machen [máxǝn]
 
 Danke Schön [ˈdaŋkə_ʃøːn]
 > g. 감사합니다
-# test
+
 Auf Wiedersehen [aʊ̯f_ˈviːdɐˌzeːən]
 > g. 다음에 다시 봐요
 
@@ -294,7 +294,7 @@ mit [mɪt]
 
 in [ɪn]
 > prep. 무엇의 안(가운데)에
-
+# test
 können [kœ́nǝn]
 > v. 할 수 있다
 
