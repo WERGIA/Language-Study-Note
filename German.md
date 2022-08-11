@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-zu
-> adv. to, 에게
-
-Entschuldigung
-> n. 실례합니다
-
-Sie
-> n. 당신
-
 Was
 > n. what, 무엇
 
@@ -294,9 +285,6 @@ mit [mɪt]
 
 in [ɪn]
 > prep. 무엇의 안(가운데)에
-# test
-können [kœ́nǝn]
-> v. 할 수 있다
 
 Vater [fá:tǝr]
 > n. 아버지
@@ -306,9 +294,6 @@ Ich [ɪç]
 
 und [ʊnt]
 > conj. 그리고
-
-den [de(:)n]
-> pron. 관사 및 대명사 der의 단수 4격
 
 Vereinigten Staaten [fεr│áinɪçtǝn_ʃtá:tǝn]
 > n. 미국
@@ -321,10 +306,7 @@ mögen [mǿ:ɡǝn]
 
 Jacke [jákǝ]
 > n. 자켓, 외투
-
-sind [zɪnt]
-> v. are, sein의 1·3인칭 복수 현재형
-
+# test
 ein(eine) [aɪn(áɪnǝ)]
 > art. 영어에서 a와 비슷한 용도로 사용
 
@@ -369,4 +351,22 @@ kommt [kɔmt]
 
 kommen [kɔ́mǝn]
 > v. 오다
+
+können [kœ́nǝn]
+> v. 할 수 있다
+
+den [de(:)n]
+> pron. 관사 및 대명사 der의 단수 4격
+
+sind [zɪnt]
+> v. are, sein의 1·3인칭 복수 현재형
+
+zu [tsu:]
+> adv. to, -에게
+
+Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
+> n. 용서, 변명, 사과
+
+Sie [zi:]
+> n. 당신
 

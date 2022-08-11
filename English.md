@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 13
-compatibility
-> n. 적합성, 호환성
-
-teleoperation
-> n. 원격 조작
-
-prioritize
-> v. 우선시하다, 우선순위를 정하다
-
 violate
 > v. 위반하다, 방해하다
 
@@ -833,27 +824,15 @@ assign
 
 differently
 > adv. 다르게, 따로
-# test
+
 treatment
 > n. 대우, 취급법, 치료
-
-mandatory
-> adj. 법률 또는 규칙에 따라 요구되는, 의무적인
 
 extensive
 > adj. 광범위한
 
 expertise
 > n. 전문 지식, 전문 기술
-
-conform
-> v. 순응하다, 따르다
-
-nested
-> adj. 중첩된
-
-even though
-> conj. 그래도, 비록 ~할지라도
 
 generate
 > v. 생성하다, 발생시키다
@@ -863,7 +842,7 @@ decrease
 
 deposit
 > n. 예금
-
+# test
 procedure
 > n. 순서, 절차
 
@@ -2089,4 +2068,25 @@ extension
 
 implementation
 > n. 결정 또는 계획을 실행하는 과정, 실행
+
+mandatory
+> adj. 법률 또는 규칙에 따라 요구되는, 의무적인
+
+conform
+> v. 순응하다, 따르다
+
+nested
+> adj. 중첩된
+
+even though
+> conj. 그래도, 비록 -할지라도
+
+compatibility
+> n. 적합성, 호환성
+
+teleoperation
+> n. 원격 조작
+
+prioritize
+> v. 우선시하다, 우선순위를 정하다
 
