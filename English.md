@@ -2090,3 +2090,6 @@ validate
 simpleness
 > n. 단순성
 
+dozen
+> n. 열 두 개, 다스
+
