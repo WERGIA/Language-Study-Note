@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 13
-violate
-> v. 위반하다, 방해하다
-
-validate
-> v. 검증하다, 유효하게 하다
-
-simpleness
-> n. 단순성
-
 robustness
 > n. 견고성
 
@@ -842,7 +833,7 @@ decrease
 
 deposit
 > n. 예금
-# test
+
 procedure
 > n. 순서, 절차
 
@@ -869,10 +860,7 @@ deployment
 
 communicate
 > v. 연락하다, 소통하다
-
-along
-> prep. -을 따라서, 함께
-
+# test
 affordable
 > adj. 저렴한
 
@@ -2089,4 +2077,16 @@ teleoperation
 
 prioritize
 > v. 우선시하다, 우선순위를 정하다
+
+along
+> prep. -을 따라서, 함께
+
+violate
+> v. 위반하다, 방해하다
+
+validate
+> v. 검증하다, 유효하게 하다
+
+simpleness
+> n. 단순성
 

@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-Was
-> n. what, 무엇
-
-gut
-> adj. 잘, 잘된
-
-reich
-> adj. 부유한
-
 Hemd
 > n. 셔츠
 
@@ -306,12 +297,9 @@ mögen [mǿ:ɡǝn]
 
 Jacke [jákǝ]
 > n. 자켓, 외투
-# test
+
 ein(eine) [aɪn(áɪnǝ)]
 > art. 영어에서 a와 비슷한 용도로 사용
-
-einschließlich [áɪnʃli:slɪç]
-> adv, prep. -을 포함하여
 
 Einkommen [ˈaɪ̯nˌkɔmən]
 > n. 소득, 봉급
@@ -333,10 +321,7 @@ Arzt [a:rtst]
 
 direkt [dirέkt]
 > adj. 직접의
-
-Ausübung [aʊ́s|ʏ́bung]
-> n. 실행, 집행
-
+# test
 von [fɔn]
 > prep. -에서, -로부터
 
@@ -356,7 +341,7 @@ können [kœ́nǝn]
 > v. 할 수 있다
 
 den [de(:)n]
-> pron. 관사 및 대명사 der의 단수 4격
+> pron. der의 단수 4격
 
 sind [zɪnt]
 > v. are, sein의 1·3인칭 복수 현재형
@@ -369,4 +354,19 @@ Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
 
 Sie [zi:]
 > n. 당신
+
+einschließlich [áɪnʃli:slɪç]
+> adv, prep. -을 포함하여
+
+Ausübung [aʊ́s|ʏ́bung]
+> n. 실행, 집행
+
+Was [vas]
+> n. what, 무엇
+
+gut [ɡu:t]
+> adj. 잘, 잘된
+
+reich [raɪç]
+> adj. 부유한
 
