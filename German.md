@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-Hemd
-> n. 셔츠
-
-teuer
-> adj. 비싼
-
-krank
-> v. 아프다
-
 sieht
 > v. 보다
 
@@ -321,7 +312,7 @@ Arzt [a:rtst]
 
 direkt [dirέkt]
 > adj. 직접의
-# test
+
 von [fɔn]
 > prep. -에서, -로부터
 
@@ -337,21 +328,12 @@ kommt [kɔmt]
 kommen [kɔ́mǝn]
 > v. 오다
 
-können [kœ́nǝn]
-> v. 할 수 있다
-
-den [de(:)n]
-> pron. der의 단수 4격
-
 sind [zɪnt]
 > v. are, sein의 1·3인칭 복수 현재형
 
 zu [tsu:]
 > adv. to, -에게
-
-Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
-> n. 용서, 변명, 사과
-
+# test
 Sie [zi:]
 > n. 당신
 
@@ -369,4 +351,22 @@ gut [ɡu:t]
 
 reich [raɪç]
 > adj. 부유한
+
+können [kœ́nǝn]
+> v. 할 수 있다
+
+den [de(:)n]
+> pron. der의 단수 4격
+
+Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
+> n. 용서, 변명, 사과
+
+Hemd [hεmt]
+> n. 셔츠
+
+teuer [tɔ́ʏǝr]
+> adj. 비싼
+
+krank [kraŋk]
+> adj. 아픈
 

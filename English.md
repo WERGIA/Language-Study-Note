@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 13
-robustness
-> n. 견고성
-
-as - as ~
-> g. ~만큼 -하다
-
-good practice
-> n. 좋은 방법
-
 surround
 > v. 둘러싸다
 
@@ -860,9 +851,6 @@ deployment
 
 communicate
 > v. 연락하다, 소통하다
-# test
-affordable
-> adj. 저렴한
 
 capability
 > n. 능력, 가능성
@@ -872,9 +860,6 @@ various
 
 on time
 > prep ph. 정시에
-
-respect to
-> pv. -와 관련하다
 
 flickering
 > adj. 깜빡거리는
@@ -890,7 +875,7 @@ alternatively
 
 obvious
 > adj. 분명한, 노골적인
-
+# test
 organize
 > v. 편성하다
 
@@ -2092,4 +2077,21 @@ simpleness
 
 dozen
 > n. 열 두 개, 다스
+
+affordable
+> adj. 저렴한
+
+respect to
+> pv. -와 관련하다
+
+# 22
+
+robustness
+> n. 견고성
+
+as - as ~
+> g. ~만큼 -하다
+
+good practice
+> n. 좋은 방법
 
