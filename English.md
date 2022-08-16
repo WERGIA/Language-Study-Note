@@ -931,9 +931,6 @@ on a regular basis
 splash
 > v. (액체 따위가) 튀기다
 
-shallow
-> adj. 얕은
-
 in addition to
 > prep ph. -뿐만 아니라, -외에도
 
@@ -2094,4 +2091,13 @@ as - as ~
 
 good practice
 > n. 좋은 방법
+
+belong to
+> adj. -에 속하는
+
+shrink
+> v. 축소하다, 수축하다
+
+shallow
+> adj. 얕은
 
