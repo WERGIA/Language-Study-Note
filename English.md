@@ -865,7 +865,7 @@ alternatively
 
 obvious
 > adj. 분명한, 노골적인
-# test
+
 organize
 > v. 편성하다
 
@@ -896,7 +896,7 @@ rewrote
 
 fresnel
 > n. 프레넬, 여러 개의 동심원 링으로 구성된 평면 렌즈
-
+# test
 unprecedented
 > adj. 새로운, 전례가 없는
 
