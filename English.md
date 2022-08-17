@@ -2101,3 +2101,28 @@ statement
 > suf. (프로그래밍에서의) -문 
 > - ex) 조건문, 반복문
 
+versatile
+> adj. 다목적의
+
+authoritative
+> adj. 권위있는, 신뢰할 수 있는
+
+permit
+> v. 허용하다
+
+inevitable
+> adj. 피할 수 없는
+
+breaking changes
+> n. (이전 버전과 호환되지 않는)주요 변경 사항
+
+aid
+> n. 도움  
+> v. 돕다
+
+terminology
+> n. 특정 주제에서 사용되는 용어의 집합체
+
+comparison
+> n. 비교
+
