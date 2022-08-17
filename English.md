@@ -36,16 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 13
-surround
-> v. 둘러싸다
-
-statement
-> n. 성명, 진술, 서술, 성명서, 진술서
-
--statements
-> suf. (프로그래밍에서의) -문 
-> - ex) 조건문, 반복문
-
 construction
 > n. 구성
 
@@ -2100,4 +2090,14 @@ shrink
 
 shallow
 > adj. 얕은
+
+surround
+> v. 둘러싸다
+
+statement
+> n. 성명, 진술, 서술, 성명서, 진술서
+
+-statements
+> suf. (프로그래밍에서의) -문 
+> - ex) 조건문, 반복문
 

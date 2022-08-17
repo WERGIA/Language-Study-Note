@@ -36,15 +36,7 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-sieht
-> v. 보다
-
-klug
-> adj. 똑똑한
-
-bin-bist-ist
-> v. am-are-is
-
+# test
 groß
 > adj. 큰
 
@@ -333,18 +325,12 @@ sind [zɪnt]
 
 zu [tsu:]
 > adv. to, -에게
-# test
+
 Sie [zi:]
 > n. 당신
 
-einschließlich [áɪnʃli:slɪç]
-> adv, prep. -을 포함하여
-
 Ausübung [aʊ́s|ʏ́bung]
 > n. 실행, 집행
-
-Was [vas]
-> n. what, 무엇
 
 gut [ɡu:t]
 > adj. 잘, 잘된
@@ -369,4 +355,22 @@ teuer [tɔ́ʏǝr]
 
 krank [kraŋk]
 > adj. 아픈
+
+einschließlich [áɪnʃli:slɪç]
+> adv, prep. -을 포함하여
+
+Was [vas]
+> n. what, 무엇
+
+sieht [zi:t]
+> v. 보다, sehen의 3인칭 단수 현재형
+
+sehen [zé:ǝn]
+> v. 보다
+
+klug [klu:k]
+> adj. 똑똑한
+
+bin-bist-ist
+> v. am-are-is
 
