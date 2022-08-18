@@ -324,7 +324,7 @@ Ausübung [aʊ́s|ʏ́bung]
 > n. 실행, 집행
 
 gut [ɡu:t]
-> adj. 잘, 잘된
+> adj. 잘, 잘된, 좋은
 
 reich [raɪç]
 > adj. 부유한
@@ -373,4 +373,57 @@ anfangen [ánfaŋǝn]
 
 Ball [bal]
 > n. 공
+
+Haar [ha:r]
+> n. 털, 머리카락
+
+fahren [fá:rǝn]
+> v. 타고 가다
+
+geben [ɡé:bǝn]
+> v. 주다
+
+Meer [me:r]
+> n. 바다
+
+Lehrer [lé:rǝr]
+> n. 선생님
+
+Kino [ˈkiːno]
+> n. 영화관
+
+ihm [i:m]
+> pron. es의 3격, 그에게
+
+Monat [mó:nat]
+> n. 달, 월
+
+Boot [bo:t]
+> n. 보트
+
+ohne [ó:nǝ]
+> prep. -없이
+
+Uhr [u:r]
+> n. 시계
+
+Käse [kέ:zǝ]
+> n. 치즈
+
+# 3
+
+erzählen [εrtsέ:lǝn]
+> v. 이야기하다
+
+hören [hǿ:rǝn]
+> v. 듣다
+
+Söhne [zǿ:ne]
+> n. 아들의 복수형
+
+Tür [ty:r]
+> n. 문
+
+berühmt [bǝrý:mt]
+> adj. 유명한
 
