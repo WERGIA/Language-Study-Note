@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 13
-construction
-> n. 구성
-
-composability
-> n. 다양한 방식으로 모듈화되는 조건, 구성가능성
-
-monolithic
-> adj. (조직 또는 시스템의)크고 강력하며 다루기 힘들고 분리할 수 없는 단일의
-
 compose
 > v. (글이나 노래를)짓다, 작성하다
 
@@ -896,9 +887,6 @@ rewrote
 
 fresnel
 > n. 프레넬, 여러 개의 동심원 링으로 구성된 평면 렌즈
-# test
-unprecedented
-> adj. 새로운, 전례가 없는
 
 even if
 > conj. 설사, 비록 -일지라도
@@ -912,23 +900,14 @@ incompatible
 bring
 > v. 가져오다
 
-applicable
-> adj. 해당되는
-
 on a regular basis
 > prep ph. 규칙적으로
 
 splash
 > v. (액체 따위가) 튀기다
-
-in addition to
-> prep ph. -뿐만 아니라, -외에도
-
-dissipate
-> v. 흩뜨리다
-
+# test
 advect
-> v. 유체의 흐름에 의해, 특히 대기나 바다에서 (열 또는 물질이) 수평으로 이동하다
+> v. 유체의 흐름에 의해, 특히 대기나 바다에서 (열 또는 물질이) 수평으로 이동하다 = 이류하다
 
 fundamental
 > adj. 기본적인, 근본적인
@@ -2125,4 +2104,25 @@ terminology
 
 comparison
 > n. 비교
+
+unprecedented
+> adj. 새로운, 전례가 없는
+
+applicable
+> adj. 해당되는
+
+in addition to
+> prep ph. -뿐만 아니라, -외에도
+
+dissipate
+> v. 흩뜨리다
+
+construction
+> n. 구성
+
+composability
+> n. 다양한 방식으로 모듈화되는 조건, 구성가능성
+
+monolithic
+> adj. (조직 또는 시스템의)크고 강력하며 다루기 힘들고 분리할 수 없는 단일의
 

@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-# test
-groß
-> adj. 큰
-
-anfangen
-> v. 시작하다
-
-Ball
-> n. 공
 
 denken
 > v. 생각하다
@@ -66,7 +57,7 @@ unter
 
 Hände
 > n. 손
-
+# test
 Gärten
 > n. 정원(복수형)
 
@@ -76,7 +67,7 @@ dünn
 aber
 > conj. but, 그러나
 
-neue
+neu
 > adj. 새로운
 
 Kaufhaus
@@ -373,4 +364,13 @@ klug [klu:k]
 
 bin-bist-ist
 > v. am-are-is
+
+groß [ɡro:s]
+> adj. 큰
+
+anfangen [ánfaŋǝn]
+> v. 시작하다
+
+Ball [bal]
+> n. 공
 
