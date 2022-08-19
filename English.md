@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 13
-compose
-> v. (글이나 노래를)짓다, 작성하다
-
-observable
-> adj. 관찰할 수 있는
-
-facilitate
-> v. 용이하게 하다
-
 worse
 > adj. 보다 나쁜, 악화되는
 
@@ -905,7 +896,7 @@ on a regular basis
 
 splash
 > v. (액체 따위가) 튀기다
-# test
+
 advect
 > v. 유체의 흐름에 의해, 특히 대기나 바다에서 (열 또는 물질이) 수평으로 이동하다 = 이류하다
 
@@ -914,15 +905,6 @@ fundamental
 
 incorporate
 > n. 통합
-
-oversaturate
-> adj. 과포화된
-
-equator
-> n. 적도
-
-attenuation
-> n. 감쇠
 
 pole
 > n. 막대기, 극
@@ -935,7 +917,7 @@ displacement
 
 flatness
 > n. 평탄함, 평탄한 정도
-
+# test
 separate
 > v. 가르다, 떼어놓다, 분류하다
 
@@ -2125,4 +2107,22 @@ composability
 
 monolithic
 > adj. (조직 또는 시스템의)크고 강력하며 다루기 힘들고 분리할 수 없는 단일의
+
+oversaturated
+> adj. 과포화된
+
+equator
+> n. 적도
+
+attenuation
+> n. 감쇠
+
+compose
+> v. (글이나 노래를)짓다, 작성하다
+
+observable
+> adj. 관찰할 수 있는
+
+facilitate
+> v. 용이하게 하다
 

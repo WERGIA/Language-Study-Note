@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-denken
-> v. 생각하다
-
-finden
-> v. 찾다
-
-oft
-> adv. 종종, 자주
-
 Onkel
 > n. 삼촌
 
@@ -57,7 +48,7 @@ unter
 
 Hände
 > n. 손
-# test
+
 Gärten
 > n. 정원(복수형)
 
@@ -87,7 +78,7 @@ schön
 
 rote
 > n. 빨간색
-
+# test
 warm [varm]
 > adj. 따뜻한
 
@@ -426,4 +417,13 @@ Tür [ty:r]
 
 berühmt [bǝrý:mt]
 > adj. 유명한
+
+denken [dέŋkǝn]
+> v. 생각하다
+
+finden [fɪ́ndǝn]
+> v. 찾다
+
+oft [ɔft]
+> adv. 종종, 자주
 
