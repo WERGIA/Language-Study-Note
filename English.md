@@ -1530,9 +1530,6 @@ attempt
 exact
 > adj. 정확한
 
-perpendicular
-> n. 수직
-
 no matter where
 > adv. 어디에 있든지
 
@@ -2126,4 +2123,10 @@ explicitly
 
 hold
 > v. 잡다, 보유하다
+
+perpendicular
+> n. 수직
+
+exposure
+> n. 노출
 
