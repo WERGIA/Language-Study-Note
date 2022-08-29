@@ -36,14 +36,6 @@ idiom. 관용어구 idiom
 pat. 회화패턴 pattern
 
 # 13
-worse
-> adj. 보다 나쁜, 악화되는
-
-explicitly
-> adv. 명시적으로
-
-hold
-> v. 잡다, 보유하다
 
 evaluation
 > n. 평가
@@ -917,9 +909,6 @@ displacement
 
 flatness
 > n. 평탄함, 평탄한 정도
-# test
-separate
-> v. 가르다, 떼어놓다, 분류하다
 
 brought
 > v. bring의 과거형, 가져왔다
@@ -942,13 +931,7 @@ advenced
 
 magnificent
 > adj. 웅장한, 인상적으로 아름다운, 정교한, 기발한, 아주 좋은, 훌륭한
-
-likelihood
-> n. 무언가의 상태 또는 사실, 개연성
-
-equation
-> n. 방정식, 수식
-
+# test
 ask for
 > pv. -을 달라고 하다
 
@@ -2125,4 +2108,22 @@ observable
 
 facilitate
 > v. 용이하게 하다
+
+separate
+> v. 가르다, 떼어놓다, 분류하다
+
+likelihood
+> n. 무언가의 상태 또는 사실, 개연성
+
+equation
+> n. 방정식, 수식
+
+worse
+> adj. 보다 나쁜, 악화되는
+
+explicitly
+> adv. 명시적으로
+
+hold
+> v. 잡다, 보유하다
 

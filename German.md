@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Onkel
-> n. 삼촌
-
-Mutter
-> n. 어머니
-
-unter
-> adv. -아래에
-
 Hände
 > n. 손
 
@@ -78,7 +69,7 @@ schön
 
 rote
 > n. 빨간색
-# test
+
 warm [varm]
 > adj. 따뜻한
 
@@ -108,7 +99,7 @@ Brot [bro:t]
 
 Wein [vaɪn]
 > n. 와인
-
+# test
 Danke [dáŋkǝ]
 > n. thanks, 고맙다
 
@@ -426,4 +417,16 @@ finden [fɪ́ndǝn]
 
 oft [ɔft]
 > adv. 종종, 자주
+
+film [fɪlm]
+> n. 필름, 영화
+
+Onkel [ɔ́ŋkǝl]
+> n. 삼촌, 아저씨
+
+Mutter [mʊ́tǝr]
+> n. 어머니
+
+unter [ʊ́ntǝr]
+> adv. -아래에
 
