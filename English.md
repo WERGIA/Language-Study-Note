@@ -2130,3 +2130,9 @@ roughly
 luggage
 > n. 짐
 
+confined
+> adj. (공간의) 면적이나 부피가 제한된, 국한된, 비좁은
+
+radial
+> adj. 방사형의
+
