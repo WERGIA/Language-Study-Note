@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Hände
-> n. 손
-
-Gärten
-> n. 정원(복수형)
-
-dünn
-> adj. 얇은, 마른
-
 aber
 > conj. but, 그러나
 
@@ -99,7 +90,7 @@ Brot [bro:t]
 
 Wein [vaɪn]
 > n. 와인
-# test
+
 Danke [dáŋkǝ]
 > n. thanks, 고맙다
 
@@ -130,7 +121,7 @@ jetzt [jεtst]
 
 tschüss [tʃʏs]
 > n. bye, 안녕
-
+# test
 ja [ja:]
 > adv. yes, 예, 응, 그래
 
@@ -429,4 +420,19 @@ Mutter [mʊ́tǝr]
 
 unter [ʊ́ntǝr]
 > adv. -아래에
+
+Hände [ˈhɛndə]
+> n. 손, Hand의 복수형
+
+Gärten [ɡɛrtǝn]
+> n. 정원, Garten의 복수형
+
+dünn [dʏn]
+> adj. 얇은, 마른
+
+Hand [hant]
+> n. 손
+
+Garten [ɡártǝn]
+> n. 정원
 

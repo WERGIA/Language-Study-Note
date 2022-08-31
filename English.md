@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 13
 
-evaluation
-> n. 평가
-
-roughly
-> adv. 대충, 대강
-
-luggage
-> n. 짐
-
 choose
 > v. 선택하다
 
@@ -931,15 +922,9 @@ advenced
 
 magnificent
 > adj. 웅장한, 인상적으로 아름다운, 정교한, 기발한, 아주 좋은, 훌륭한
-# test
+
 ask for
 > pv. -을 달라고 하다
-
-whether
-> pron. 둘 중 어느 하나
-
-repay
-> v. 상환하다
 
 bandwidth
 > n. 대역폭
@@ -950,18 +935,9 @@ look ahead
 vest
 > n. 조끼
 
-bide
-> v. 때를 기다리다
-
-distinctive
-> adj. 독특한
-
-no matter the-
-> adv. -에 상관없이
-
 manipulate
 > v. 조종하다, 조작하다
-
+# test
 involve
 > v. 포함하다
 
@@ -2129,4 +2105,28 @@ perpendicular
 
 exposure
 > n. 노출
+
+whether
+> pron. 둘 중 어느 하나
+
+repay
+> v. 상환하다
+
+bide
+> v. 때를 기다리다
+
+distinctive
+> adj. 독특한
+
+no matter the-
+> adv. -에 상관없이
+
+evaluation
+> n. 평가
+
+roughly
+> adv. 대충, 대강
+
+luggage
+> n. 짐
 
