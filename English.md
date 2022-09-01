@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 13
 
-choose
-> v. 선택하다
-
-be able to
-> g. 가능하다.
-
-most
-> adv. 대부분의
-
 to do this
 > g. 이것을 하기 위해
 
@@ -937,12 +928,9 @@ vest
 
 manipulate
 > v. 조종하다, 조작하다
-# test
+
 involve
 > v. 포함하다
-
-integral
-> adj. 필수의, 완전한
 
 in other words
 > idiom. 다시 말해서
@@ -950,17 +938,8 @@ in other words
 behave
 > v. 행동하다
 
-appropriately
-> adv. 적절하게, 적당하게
-
 basis
 > n. 기준, 기초
-
-and so on
-> adv. 등등
-
-on the recommenation of
-> prep ph. -의 추천으로
 
 affect
 > v. 영향을 미치다
@@ -968,7 +947,7 @@ affect
 infrared
 > n. 적외선, 스펙트럼의 적외선 영역   
 > adj. 적외선의
-
+# test
 harmless
 > adj. 해가 없는, 해를 끼치지 않는
 
@@ -1041,6 +1020,7 @@ malformed
 > adj. 흉하게 생긴, 잘못된
 
 # 19
+
 consistent
 > adj. 일관된
 
@@ -2135,4 +2115,25 @@ confined
 
 radial
 > adj. 방사형의
+
+integral
+> adj. 필수의, 완전한
+
+appropriately
+> adv. 적절하게, 적당하게
+
+and so on
+> adv. 등등
+
+on the recommenation of
+> prep ph. -의 추천으로
+
+choose
+> v. 선택하다
+
+be able to
+> g. 가능하다
+
+most
+> adv. 대부분의
 

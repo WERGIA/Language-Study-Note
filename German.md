@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-aber
-> conj. but, 그러나
-
-neu
-> adj. 새로운
-
-Kaufhaus
-> n. 백화점
-
 arbeiten
 > v. 일하다
 
@@ -121,7 +112,7 @@ jetzt [jεtst]
 
 tschüss [tʃʏs]
 > n. bye, 안녕
-# test
+
 ja [ja:]
 > adv. yes, 예, 응, 그래
 
@@ -151,7 +142,7 @@ Flughafen [ˈfluːkˌhaːfn̩]
 
 läuft [lɔʏft]
 > v. laufen의 3인칭 단수 현재형, 달리다
-
+# test
 nicht [nɪçt]
 > adv. not, 아닌, 아니다, 않다
 
@@ -435,4 +426,13 @@ Hand [hant]
 
 Garten [ɡártǝn]
 > n. 정원
+
+aber [á:bǝr]
+> conj. but, 그러나
+
+neu [nɔʏ]
+> adj. 새로운
+
+Kaufhaus [ˈkaʊ̯fˌhaʊ̯s]
+> n. 백화점
 
