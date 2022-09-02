@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 13
 
-to do this
-> g. 이것을 하기 위해
-
-composable
-> adj. 구성할 수 있는
-
-inability
-> n. 능력의 부족으로 어떠한 일을 할 수 없음
-
 having a trouble
 > g. 문제가 있다
 
@@ -951,27 +942,12 @@ infrared
 harmless
 > adj. 해가 없는, 해를 끼치지 않는
 
-refer
-> v. 보내다, 가리키다
-
-intend
-> v. 목적이나 의도를 가지다, 계획하다, 예정하다
-
 except
 > prep. -외에   
 > v. 제외하다
 
-have the edge over
-> prep ph. -보다 유리하다
-
 brighter
 > adv. bright의 비교급, 더 밝게
-
-in some way
-> adv ph. 어떤 점에서는, 어떤 방법으로든
-
-significant
-> adj. 중요한, 의미있는
 
 inexpensive
 > adj. 저렴한, 비용이 들지 않는
@@ -2136,4 +2112,28 @@ be able to
 
 most
 > adv. 대부분의
+
+refer
+> v. 보내다, 가리키다
+
+intend
+> v. 목적이나 의도를 가지다, 계획하다, 예정하다
+
+have the edge over
+> prep ph. -보다 유리하다
+
+in some way
+> adv ph. 어떤 점에서는, 어떤 방법으로든
+
+significant
+> adj. 중요한, 의미있는
+
+to do this
+> g. 이것을 하기 위해
+
+composable
+> adj. 구성할 수 있는
+
+inability
+> n. 능력의 부족으로 어떠한 일을 할 수 없음
 

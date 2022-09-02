@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-arbeiten
-> v. 일하다
-
-Hilfe
-> n. 도움
-
-schwarze
-> n. 검은색
-
 schön
 > adj. 아름다운
 
@@ -142,7 +133,7 @@ Flughafen [ˈfluːkˌhaːfn̩]
 
 läuft [lɔʏft]
 > v. laufen의 3인칭 단수 현재형, 달리다
-# test
+
 nicht [nɪçt]
 > adv. not, 아닌, 아니다, 않다
 
@@ -172,7 +163,7 @@ Mann [man]
 
 ausländisch [ˈaʊ̯slɛndɪʃ]
 > adj. 외국의
-
+# test
 Einzelperson [ˈaɪ̯nʦl̩pɛʁˌzoːn]
 > n. 개인
 
@@ -435,4 +426,13 @@ neu [nɔʏ]
 
 Kaufhaus [ˈkaʊ̯fˌhaʊ̯s]
 > n. 백화점
+
+arbeiten [árbaɪtǝn]
+> v. 일하다
+
+Hilfe [hɪ́lfǝ]
+> n. 도움
+
+Schwarz [ʃvarts]
+> n. 검은색
 
