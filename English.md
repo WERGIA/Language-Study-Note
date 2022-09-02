@@ -938,7 +938,7 @@ affect
 infrared
 > n. 적외선, 스펙트럼의 적외선 영역   
 > adj. 적외선의
-# test
+
 harmless
 > adj. 해가 없는, 해를 끼치지 않는
 
@@ -954,7 +954,7 @@ inexpensive
 
 reliable
 > adj. 신뢰할 수 있는
-
+# test
 detection
 > n. 발각, 간파, 감지
 
