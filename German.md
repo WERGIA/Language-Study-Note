@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-schön
-> adj. 아름다운
-
-rote
-> n. 빨간색
-
-warm [varm]
-> adj. 따뜻한
-
 für [fyːɐ̯]
 > prep. for, -을 위해
 
@@ -163,7 +154,7 @@ Mann [man]
 
 ausländisch [ˈaʊ̯slɛndɪʃ]
 > adj. 외국의
-# test
+
 Einzelperson [ˈaɪ̯nʦl̩pɛʁˌzoːn]
 > n. 개인
 
@@ -188,12 +179,9 @@ bevollmächtigen [bǝfɔ́lmεçtɪɡǝn]
 Gesellschaft [ɡǝzέlʃaft]
 > n. 회사
 
-Wo [vo:]
-> n. where, 어디
-
 Frau [fraʊ]
 > n. 부인, 아내
-
+# test
 Sohn [zo:n]
 > n. 아들
 
@@ -215,7 +203,7 @@ Ich [ɪç]
 und [ʊnt]
 > conj. 그리고
 
-Vereinigten Staaten [fεr│áinɪçtǝn_ʃtá:tǝn]
+Vereinigten Staaten [fεr│áinɪgǝn_ʃtá:tǝn]
 > n. 미국
 
 brauchen [bráʊxǝn]
@@ -435,4 +423,16 @@ Hilfe [hɪ́lfǝ]
 
 Schwarz [ʃvarts]
 > n. 검은색
+
+Wo [vo:]
+> n. where, 어디
+
+schön [ʃø:n]
+> adj. 아름다운
+
+Röte [rǿ:tǝ]
+> n. 빨간색
+
+warm [varm]
+> adj. 따뜻한
 

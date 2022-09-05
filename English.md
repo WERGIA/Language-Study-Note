@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 13
 
-having a trouble
-> g. 문제가 있다
-
-strategy
-> n. 전략
-
-neither
-> adv. A도 아니고 B도 아닌
-
 serve
 > v. 섬기다, 보조하다
 
@@ -954,15 +945,12 @@ inexpensive
 
 reliable
 > adj. 신뢰할 수 있는
-# test
+
 detection
 > n. 발각, 간파, 감지
 
 emit
 > v. 방사하다, 방출하다
-
-situate
-> v. 어떤 장소나 위치에 놓거나 고정하다
 
 conceal
 > v. 시야에서 멀어지다, 숨기다
@@ -970,21 +958,9 @@ conceal
 keep from sight
 > st. 보이지 않게 하다
 
-intrusion
-> n. 강요
-
-throughtout
-> prep. -의 구석구석까지
-
-underneath
-> prep. 바로 아래에 있는, 다른 것에 의해 숨겨진
-
-belong
-> v. 소속하다, 있다
-
 identify
 > v. 식별하다
-
+# test
 as such
 > conj. 따라서, 그와 같이, 이를테면
 
@@ -2136,4 +2112,28 @@ composable
 
 inability
 > n. 능력의 부족으로 어떠한 일을 할 수 없음
+
+situate
+> v. (어떤 장소나 위치에)놓다, 고정하다
+
+intrusion
+> n. 강요
+
+throughtout
+> prep. -의 구석구석까지
+
+underneath
+> prep. 바로 아래에 있는, 다른 것에 의해 숨겨진
+
+belong
+> v. 소속하다, 있다
+
+having a trouble
+> g. 문제가 있다
+
+strategy
+> n. 전략
+
+neither
+> adv. A도 아니고 B도 아닌
 
