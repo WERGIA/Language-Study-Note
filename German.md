@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-für [fyːɐ̯]
-> prep. for, -을 위해
-
-Kasse [kásǝ]
-> n. 현금, 캐셔
-
-super [ˈzuːpɐ]
-> adj. 엄청난, 훌륭한
-
 Hallo [haló]
 > n. hello, 인사말
 
@@ -181,7 +172,7 @@ Gesellschaft [ɡǝzέlʃaft]
 
 Frau [fraʊ]
 > n. 부인, 아내
-# test
+
 Sohn [zo:n]
 > n. 아들
 
@@ -211,7 +202,7 @@ brauchen [bráʊxǝn]
 
 mögen [mǿ:ɡǝn]
 > v. 좋아하다
-
+# test
 Jacke [jákǝ]
 > n. 자켓, 외투
 
@@ -435,4 +426,13 @@ Röte [rǿ:tǝ]
 
 warm [varm]
 > adj. 따뜻한
+
+für [fyːɐ̯]
+> prep. for, -을 위해
+
+Kasse [kásǝ]
+> n. 현금, 캐셔
+
+super [ˈzuːpɐ]
+> adj. 엄청난, 훌륭한
 

@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 13
 
-serve
-> v. 섬기다, 보조하다
-
-serve as
-> pv. -의 역할을 하다, -으로 사용하다
-
-guarantee
-> n. 보증
-
 assurance
 > n. 보증
 
@@ -72,6 +63,7 @@ immutable
 > adj. 불변의, 변하지 않는
 
 # 14
+
 enforce
 > v. 억지로 시키다, 시행하다
 
@@ -961,9 +953,6 @@ keep from sight
 identify
 > v. 식별하다
 # test
-as such
-> conj. 따라서, 그와 같이, 이를테면
-
 retrieve
 > n. 검색, 회복   
 > v. 끌어내다, 소유권을 되찾다
@@ -972,12 +961,6 @@ malformed
 > adj. 흉하게 생긴, 잘못된
 
 # 19
-
-consistent
-> adj. 일관된
-
-such
-> adv. 이러한, -와 같은
 
 interpret
 > v. 이해해다, 해석하다
@@ -2136,4 +2119,22 @@ strategy
 
 neither
 > adv. A도 아니고 B도 아닌
+
+as such
+> conj. 따라서, 그와 같이, 이를테면
+
+consistent
+> adj. 일관된
+
+such
+> adv. 이러한, -와 같은
+
+serve
+> v. 섬기다, 보조하다
+
+serve as
+> pv. -의 역할을 하다, -으로 사용하다
+
+guarantee
+> n. 보증
 
