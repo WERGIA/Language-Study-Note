@@ -952,7 +952,7 @@ keep from sight
 
 identify
 > v. 식별하다
-# test
+
 retrieve
 > n. 검색, 회복   
 > v. 끌어내다, 소유권을 되찾다
@@ -977,7 +977,7 @@ simplicity
 
 due to
 > prep. -때문에, -로 인해
-
+# test
 consist
 > v. 구성되다, 이루어지다
 
