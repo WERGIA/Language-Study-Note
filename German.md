@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Hallo [haló]
-> n. hello, 인사말
-
-Wasser [vásǝr]
-> n. 물
-
-Tee [te:]
-> n. 차
-
 Schüler [schüh·ler]
 > n. 학생
 
@@ -202,7 +193,7 @@ brauchen [bráʊxǝn]
 
 mögen [mǿ:ɡǝn]
 > v. 좋아하다
-# test
+
 Jacke [jákǝ]
 > n. 자켓, 외투
 
@@ -214,9 +205,6 @@ Einkommen [ˈaɪ̯nˌkɔmən]
 
 weiche [vaɪç]
 > adj. 부드러운
-
-nehmen [né:mǝn]
-> v. 가져가다
 
 nett [nεt]
 > adj. 친절한
@@ -232,7 +220,7 @@ direkt [dirέkt]
 
 von [fɔn]
 > prep. -에서, -로부터
-
+# test
 im [ɪm]
 > prep. -에서
 
@@ -435,4 +423,16 @@ Kasse [kásǝ]
 
 super [ˈzuːpɐ]
 > adj. 엄청난, 훌륭한
+
+nehmen [né:mǝn]
+> v. 가져가다
+
+Hallo [haló]
+> n. hello, 인사말
+
+Wasser [vásǝr]
+> n. 물
+
+Tee [te:]
+> n. 차
 

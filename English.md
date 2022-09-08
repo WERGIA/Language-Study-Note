@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 13
 
-assurance
-> n. 보증
-
-lack
-> v. 부족하다
-
-periodically
-> adv. 주기적으로
-
 forecast
 > n. 예보, 예상, 예측
 
@@ -977,9 +968,6 @@ simplicity
 
 due to
 > prep. -때문에, -로 인해
-# test
-consist
-> v. 구성되다, 이루어지다
 
 stunning
 > adj. 매우 훌륭한
@@ -1000,18 +988,9 @@ realization
 resolution
 > n. 해결, 과학적(특히 광학) 기기로 측정할 수 있는 가장 작은 간격
 
-intimidate
-> v. 위협하다
-
-pedestal
-> n. 받침대, 기초
-
-crucial
-> adj. 결정적인, 중대한
-
 often
 > adv. 자주
-
+# test
 warranty
 > n. 보증
 
@@ -2137,4 +2116,28 @@ serve as
 
 guarantee
 > n. 보증
+
+consist
+> v. 구성되다, 이루어지다
+
+intimidate
+> v. 위협하다
+
+pedestal
+> n. 받침대, 기초
+
+crucial
+> adj. 결정적인, 중대한
+
+anemone
+> n. 아네모네(꽃 이름), 말미잘
+
+assurance
+> n. 보증
+
+lack
+> v. 부족하다
+
+periodically
+> adv. 주기적으로
 
