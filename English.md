@@ -37,16 +37,6 @@ pat. 회화패턴 pattern
 
 # 13
 
-forecast
-> n. 예보, 예상, 예측
-
-segment
-> n. 분절   
-> v. 분할하다
-
-exactly
-> adv. 정확하게
-
 mutable
 > adj. 변하기 쉬운
 
@@ -990,21 +980,12 @@ resolution
 
 often
 > adv. 자주
-# test
+
 warranty
 > n. 보증
 
-such as
-> g. -와 같은, 언급한 것의 예시를 소개하기 위해 사용
-
 no matter how
 > adv. (=however)아무리 -하더라도
-
-hence
-> adv. 이러한 이유로
-
-overhauled
-> n. 정밀 검사
 
 capitalize
 > v. 대문자로 만들다(시작하다), 이용하다, 자본화하다
@@ -1014,13 +995,7 @@ phrase
 
 who
 > pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
-
-take place
-> pv. 일어나다, -하고 있다 (happen, occur)
-
-that said,
-> adv. 그렇긴 하지만, 그래도
-
+# test
 line breaking
 > n. 줄바꿈
 
@@ -2140,4 +2115,29 @@ lack
 
 periodically
 > adv. 주기적으로
+
+such as
+> g. -와 같은, 언급한 것의 예시를 소개하기 위해 사용
+
+hence
+> adv. 이러한 이유로
+
+overhauled
+> n. 정밀 검사
+
+take place
+> pv. 일어나다, -하고 있다 (happen, occur)
+
+that said,
+> adv. 그렇긴 하지만, 그래도
+
+forecast
+> n. 예보, 예상, 예측
+
+segment
+> n. 분절   
+> v. 분할하다
+
+exactly
+> adv. 정확하게
 

@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Schüler [schüh·ler]
-> n. 학생
-
-Brot [bro:t]
-> n. 빵
-
-Wein [vaɪn]
-> n. 와인
-
 Danke [dáŋkǝ]
 > n. thanks, 고맙다
 
@@ -220,7 +211,7 @@ direkt [dirέkt]
 
 von [fɔn]
 > prep. -에서, -로부터
-# test
+
 im [ɪm]
 > prep. -에서
 
@@ -242,15 +233,12 @@ zu [tsu:]
 Sie [zi:]
 > n. 당신
 
-Ausübung [aʊ́s|ʏ́bung]
-> n. 실행, 집행
-
 gut [ɡu:t]
 > adj. 잘, 잘된, 좋은
 
 reich [raɪç]
 > adj. 부유한
-
+# test
 können [kœ́nǝn]
 > v. 할 수 있다
 
@@ -435,4 +423,16 @@ Wasser [vásǝr]
 
 Tee [te:]
 > n. 차
+
+Ausübung [aʊ́s|ʏ́bung]
+> n. 실행, 집행
+
+Schüler [schüh·ler]
+> n. 학생
+
+Brot [bro:t]
+> n. 빵
+
+Wein [vaɪn]
+> n. 와인
 
