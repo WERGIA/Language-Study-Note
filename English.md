@@ -35,18 +35,7 @@ idiom. 관용어구 idiom
 
 pat. 회화패턴 pattern
 
-# 13
-
-mutable
-> adj. 변하기 쉬운
-
-immutable
-> adj. 불변의, 변하지 않는
-
 # 14
-
-enforce
-> v. 억지로 시키다, 시행하다
 
 dedicated
 > adj. 전용의, 전담
@@ -995,7 +984,7 @@ phrase
 
 who
 > pron. 누구, 이전에 언급한 사람에 대한 추가 정보를 제공하는 것을 소개하는데 사용
-# test
+
 line breaking
 > n. 줄바꿈
 
@@ -1025,7 +1014,7 @@ conversation
 
 aware
 > v. 인식하다
-
+# test
 as
 > prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는 데 사용
 
@@ -2140,4 +2129,13 @@ segment
 
 exactly
 > adv. 정확하게
+
+mutable
+> adj. 변하기 쉬운
+
+immutable
+> adj. 불변의, 변하지 않는
+
+enforce
+> v. 억지로 시키다, 시행하다
 

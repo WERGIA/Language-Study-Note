@@ -37,16 +37,6 @@ art. 관사 article
 
 # 2
 
-Danke [dáŋkǝ]
-> n. thanks, 고맙다
-
-Sein(Seine) [zaɪn]
-> n. his, 그의
-
-Deutsch [dɔʏtʃ]
-> adj. 독일의, 독일에 관한
-> n. 독일어
-
 lernen [lέrnǝn]
 > v. 배우다, 기술을 습득하다
 
@@ -238,9 +228,6 @@ gut [ɡu:t]
 
 reich [raɪç]
 > adj. 부유한
-# test
-können [kœ́nǝn]
-> v. 할 수 있다
 
 den [de(:)n]
 > pron. der의 단수 4격
@@ -257,9 +244,6 @@ teuer [tɔ́ʏǝr]
 krank [kraŋk]
 > adj. 아픈
 
-einschließlich [áɪnʃli:slɪç]
-> adv, prep. -을 포함하여
-
 Was [vas]
 > n. what, 무엇
 
@@ -268,7 +252,7 @@ sieht [zi:t]
 
 sehen [zé:ǝn]
 > v. 보다
-
+# test
 klug [klu:k]
 > adj. 똑똑한
 
@@ -435,4 +419,20 @@ Brot [bro:t]
 
 Wein [vaɪn]
 > n. 와인
+
+können [kœ́nǝn]
+> v. 할 수 있다
+
+einschließlich [áɪnʃli:slɪç]
+> adv, prep. -을 포함하여
+
+Danke [dáŋkǝ]
+> n. thanks, 고맙다
+
+Sein(Seine) [zaɪn]
+> n. his, 그의
+
+Deutsch [dɔʏtʃ]
+> adj. 독일의, 독일에 관한
+> n. 독일어
 
