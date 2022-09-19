@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-dedicated
-> adj. 전용의, 전담
-
-programmatically
-> adv. 프로그래밍 방식으로
-
-primitive
-> adj. 기본적인
-
 integrate
 > v. 통합되다
 
@@ -1014,9 +1005,6 @@ conversation
 
 aware
 > v. 인식하다
-# test
-as
-> prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는 데 사용
 
 demonstrate
 > v. 증명하다, 시연하다
@@ -1030,14 +1018,8 @@ incorrect
 augmented reality
 > n. 증강 현실
 
-withholding
-> n. 원천징수
-
 crossroads
 > n. 교차로
-
-get off
-> pv. 내리다
 
 inevitably
 > adv. 필연적으로
@@ -1047,7 +1029,7 @@ avail
 
 eliminate
 > v. 죽이다, 제거하다
-
+# test
 opaque
 > n. 불투명체   
 > adj. 불투명한, 광택이 없는, 부전도성의
@@ -2138,4 +2120,22 @@ immutable
 
 enforce
 > v. 억지로 시키다, 시행하다
+
+withholding
+> n. 원천징수
+
+as
+> prep. 누군가 또는 어떤 것이 가지고 있는 기능이나 성격을 나타내는 데 사용
+
+get off
+> pv. 내리다
+
+dedicated
+> adj. 전용의, 전담
+
+programmatically
+> adv. 프로그래밍 방식으로
+
+primitive
+> adj. 기본적인
 

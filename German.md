@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-lernen [lέrnǝn]
-> v. 배우다, 기술을 습득하다
-
-beginnen [bǝɡɪ́nǝn]
-> v. 시작하다
-
-Bier [bi:r]
-> n. 맥주
-
 nein [naɪn]
 > adv. 아니, 아니오, 부정
 
@@ -271,9 +262,6 @@ Ball [bal]
 Haar [ha:r]
 > n. 털, 머리카락
 
-fahren [fá:rǝn]
-> v. 타고 가다
-
 geben [ɡé:bǝn]
 > v. 주다
 
@@ -282,7 +270,7 @@ Meer [me:r]
 
 Lehrer [lé:rǝr]
 > n. 선생님
-
+# test
 Kino [ˈkiːno]
 > n. 영화관
 
@@ -435,4 +423,16 @@ Sein(Seine) [zaɪn]
 Deutsch [dɔʏtʃ]
 > adj. 독일의, 독일에 관한
 > n. 독일어
+
+fahren [fá:rǝn]
+> v. 타고 가다
+
+lernen [lέrnǝn]
+> v. 배우다, 기술을 습득하다
+
+beginnen [bǝɡɪ́nǝn]
+> v. 시작하다
+
+Bier [bi:r]
+> n. 맥주
 
