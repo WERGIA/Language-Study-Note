@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-integrate
-> v. 통합되다
-
-orchestrate
-> v. 조율하다
-
-shorthand
-> n. 속기, 약어, 줄여서 쓴 것
-
 as a -
 > ph. -으로
 
@@ -1029,7 +1020,7 @@ avail
 
 eliminate
 > v. 죽이다, 제거하다
-# test
+
 opaque
 > n. 불투명체   
 > adj. 불투명한, 광택이 없는, 부전도성의
@@ -1039,9 +1030,6 @@ jitter
 
 intermediary
 > n. 중개인
-
-assuming
-> n. 가정
 
 dictate
 > n. 명령
@@ -1061,7 +1049,7 @@ recipient
 
 substantiate
 > v. 실증하다, 실체화하다
-
+# test
 obtain
 > v. 얻다, 획득하다
 
@@ -2138,4 +2126,16 @@ programmatically
 
 primitive
 > adj. 기본적인
+
+assuming
+> n. 가정
+
+integrate
+> v. 통합되다
+
+orchestrate
+> v. 조율하다
+
+shorthand
+> n. 속기, 약어, 줄여서 쓴 것
 

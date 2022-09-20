@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-nein [naɪn]
-> adv. 아니, 아니오, 부정
-
-oder [ó:dǝr]
-> conj. 또는, 혹은
-
-jetzt [jεtst]
-> adv. 지금
-
 tschüss [tʃʏs]
 > n. bye, 안녕
 
@@ -270,7 +261,7 @@ Meer [me:r]
 
 Lehrer [lé:rǝr]
 > n. 선생님
-# test
+
 Kino [ˈkiːno]
 > n. 영화관
 
@@ -283,12 +274,6 @@ Monat [mó:nat]
 Boot [bo:t]
 > n. 보트
 
-ohne [ó:nǝ]
-> prep. -없이
-
-Uhr [u:r]
-> n. 시계
-
 Käse [kέ:zǝ]
 > n. 치즈
 
@@ -297,12 +282,9 @@ Käse [kέ:zǝ]
 erzählen [εrtsέ:lǝn]
 > v. 이야기하다
 
-hören [hǿ:rǝn]
-> v. 듣다
-
 Söhne [zǿ:ne]
 > n. 아들의 복수형
-
+# test
 Tür [ty:r]
 > n. 문
 
@@ -435,4 +417,22 @@ beginnen [bǝɡɪ́nǝn]
 
 Bier [bi:r]
 > n. 맥주
+
+ohne [ó:nǝ]
+> prep. -없이
+
+Uhr [u:r]
+> n. 시계
+
+hören [hǿ:rǝn]
+> v. 듣다
+
+nein [naɪn]
+> adv. 아니, 아니오, 부정
+
+oder [ó:dǝr]
+> conj. 또는, 혹은
+
+jetzt [jεtst]
+> adv. 지금
 
