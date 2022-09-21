@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-as a -
-> ph. -으로
-
-scheme
-> n. 체계, 계획
-
-get ~ done
-> pv. 끝내다, ~을 끝내다
-
 finish
 > v. 끝내다
 
@@ -1049,7 +1040,7 @@ recipient
 
 substantiate
 > v. 실증하다, 실체화하다
-# test
+
 obtain
 > v. 얻다, 획득하다
 
@@ -1081,7 +1072,7 @@ manufacture
 
 mess up
 > pv. 망치다
-
+# test
 restaurant
 > n. 식당
 
@@ -2138,4 +2129,13 @@ orchestrate
 
 shorthand
 > n. 속기, 약어, 줄여서 쓴 것
+
+as a -
+> ph. -으로
+
+scheme
+> n. 체계, 계획
+
+get - done
+> pv. 끝내다, -을 끝내다
 

@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-tschüss [tʃʏs]
-> n. bye, 안녕
-
-ja [ja:]
-> adv. yes, 예, 응, 그래
-
-bitte [ˈbɪtə]
-> adv. please, 정중한 요청
-
 Milch [mɪlç]
 > n. 우유
 
@@ -284,12 +275,9 @@ erzählen [εrtsέ:lǝn]
 
 Söhne [zǿ:ne]
 > n. 아들의 복수형
-# test
+
 Tür [ty:r]
 > n. 문
-
-berühmt [bǝrý:mt]
-> adj. 유명한
 
 denken [dέŋkǝn]
 > v. 생각하다
@@ -314,7 +302,7 @@ unter [ʊ́ntǝr]
 
 Hände [ˈhɛndə]
 > n. 손, Hand의 복수형
-
+# test
 Gärten [ɡɛrtǝn]
 > n. 정원, Garten의 복수형
 
@@ -435,4 +423,16 @@ oder [ó:dǝr]
 
 jetzt [jεtst]
 > adv. 지금
+
+berühmt [bǝrý:mt]
+> adj. 유명한
+
+tschüss [tʃʏs]
+> n. bye, 안녕
+
+ja [ja:]
+> adv. yes, 예, 응, 그래
+
+bitte [ˈbɪtə]
+> adv. please, 정중한 요청
 
