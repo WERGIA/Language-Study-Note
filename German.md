@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Milch [mɪlç]
-> n. 우유
-
-Kaffee [káfe]
-> n. 커피
-
-mein(meine) [maɪn]
-> n. my, 나의
-
 öffnen [œ́fnǝn]
 > v. 열다
 
@@ -302,7 +293,7 @@ unter [ʊ́ntǝr]
 
 Hände [ˈhɛndə]
 > n. 손, Hand의 복수형
-# test
+
 Gärten [ɡɛrtǝn]
 > n. 정원, Garten의 복수형
 
@@ -332,7 +323,7 @@ Hilfe [hɪ́lfǝ]
 
 Schwarz [ʃvarts]
 > n. 검은색
-
+# test
 Wo [vo:]
 > n. where, 어디
 
@@ -435,4 +426,13 @@ ja [ja:]
 
 bitte [ˈbɪtə]
 > adv. please, 정중한 요청
+
+Milch [mɪlç]
+> n. 우유
+
+Kaffee [káfe]
+> n. 커피
+
+mein(meine) [maɪn]
+> n. my, 나의
 

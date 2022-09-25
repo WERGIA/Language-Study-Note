@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-finish
-> v. 끝내다
-
-distribute
-> v. 분배하다, 배포하다
-
-promote
-> v. 홍보하다
-
 intensive
 > adj. 강한
 
@@ -1072,12 +1063,9 @@ manufacture
 
 mess up
 > pv. 망치다
-# test
+
 restaurant
 > n. 식당
-
-specified
-> adj. 지정된
 
 invert
 > v. 반대로 하다, 거꾸로 하다
@@ -1097,13 +1085,7 @@ treasury
 
 daughter
 > n. 딸
-
-measure
-> n. 조치
-
-fetch
-> v. 가져오다
-
+# test
 requirement
 > n. 요구사항
 
@@ -2138,4 +2120,22 @@ scheme
 
 get - done
 > pv. 끝내다, -을 끝내다
+
+specified
+> adj. 지정된
+
+measure
+> n. 조치
+
+fetch
+> v. 가져오다
+
+finish
+> v. 끝내다
+
+distribute
+> v. 분배하다, 배포하다
+
+promote
+> v. 홍보하다
 
