@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-öffnen [œ́fnǝn]
-> v. 열다
-
-müssen [mʏ́sǝn]
-> v. -해야 한다
-
-hier [hi:r]
-> adv. 여기
-
 Flughafen [ˈfluːkˌhaːfn̩]
 > n. 공항
 
@@ -323,7 +314,7 @@ Hilfe [hɪ́lfǝ]
 
 Schwarz [ʃvarts]
 > n. 검은색
-# test
+
 Wo [vo:]
 > n. where, 어디
 
@@ -353,7 +344,7 @@ Hallo [haló]
 
 Wasser [vásǝr]
 > n. 물
-
+# test
 Tee [te:]
 > n. 차
 
@@ -435,4 +426,13 @@ Kaffee [káfe]
 
 mein(meine) [maɪn]
 > n. my, 나의
+
+öffnen [œ́fnǝn]
+> v. 열다
+
+müssen [mʏ́sǝn]
+> v. -해야 한다
+
+hier [hi:r]
+> adv. 여기
 

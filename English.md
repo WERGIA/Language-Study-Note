@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-intensive
-> adj. 강한
-
-await
-> v. 기다리다
-
-naturally
-> adv. 당연히, 자연스럽게
-
 influence
 > n. 영향   
 > v. ~에 영향을 미치다
@@ -1085,7 +1076,7 @@ treasury
 
 daughter
 > n. 딸
-# test
+
 requirement
 > n. 요구사항
 
@@ -1095,12 +1086,6 @@ known
 
 translucent
 > adj. 투명한
-
-witness
-> v. 목격하다
-
-omit
-> v. 생략하다
 
 existing
 > adj. 기존, 기존의
@@ -1116,7 +1101,7 @@ edge
 
 although
 > conj. 비록 -일지라도, -이기는 하지만
-
+# test
 so far
 > adv. 지금까지
 
@@ -1136,8 +1121,8 @@ achieve
 imitate
 > v. 모방하다, 모사하다
 
-act as ~
-> pv. ~처럼 행동하다
+act as -
+> pv. -처럼 행동하다
 
 temporarily
 > adv. 일시적으로
@@ -2138,4 +2123,19 @@ distribute
 
 promote
 > v. 홍보하다
+
+witness
+> v. 목격하다
+
+omit
+> v. 생략하다
+
+intensive
+> adj. 강한
+
+await
+> v. 기다리다
+
+naturally
+> adv. 당연히, 자연스럽게
 
