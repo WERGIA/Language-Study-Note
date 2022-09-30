@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Flughafen [ˈfluːkˌhaːfn̩]
-> n. 공항
-
-läuft [lɔʏft]
-> v. laufen의 3인칭 단수 현재형, 달리다
-
-nicht [nɪçt]
-> adv. not, 아닌, 아니다, 않다
-
 laufen [láʊfǝn]
 > v. 달리다, 뛰다
 
@@ -344,7 +335,7 @@ Hallo [haló]
 
 Wasser [vásǝr]
 > n. 물
-# test
+
 Tee [te:]
 > n. 차
 
@@ -360,9 +351,6 @@ Brot [bro:t]
 Wein [vaɪn]
 > n. 와인
 
-können [kœ́nǝn]
-> v. 할 수 있다
-
 einschließlich [áɪnʃli:slɪç]
 > adv, prep. -을 포함하여
 
@@ -375,7 +363,7 @@ Sein(Seine) [zaɪn]
 Deutsch [dɔʏtʃ]
 > adj. 독일의, 독일에 관한
 > n. 독일어
-
+# test
 fahren [fá:rǝn]
 > v. 타고 가다
 
@@ -435,4 +423,16 @@ müssen [mʏ́sǝn]
 
 hier [hi:r]
 > adv. 여기
+
+können [kœ́nǝn]
+> v. 할 수 있다
+
+Flughafen [ˈfluːkˌhaːfn̩]
+> n. 공항
+
+läuft [lɔʏft]
+> v. laufen의 3인칭 단수 현재형, 달리다
+
+nicht [nɪçt]
+> adv. not, 아닌, 아니다, 않다
 

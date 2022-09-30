@@ -37,16 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-influence
-> n. 영향   
-> v. ~에 영향을 미치다
-
-encounter
-> v. 만나다, 부닥치다, 당하다, 교전하다
-
-mention
-> v. 언급하다
-
 whenever
 > conj. ~할 때는 언제나
 
@@ -1101,7 +1091,7 @@ edge
 
 although
 > conj. 비록 -일지라도, -이기는 하지만
-# test
+
 so far
 > adv. 지금까지
 
@@ -1115,9 +1105,6 @@ unlike
 > prep. -과 달리  
 > adj. 같지 않은, 닮지 않은
 
-achieve
-> v. 이루다, 세우다, (일정한 표준에)도달하다
-
 imitate
 > v. 모방하다, 모사하다
 
@@ -1126,13 +1113,7 @@ act as -
 
 temporarily
 > adv. 일시적으로
-
-subsequent
-> adj. 후속, 뒤따라오는
-
-vastly
-> adv. 엄청나게
-
+# test
 least
 > adj. 가장 작은(적은)
 
@@ -2138,4 +2119,23 @@ await
 
 naturally
 > adv. 당연히, 자연스럽게
+
+achieve
+> v. 이루다, 세우다, (일정한 표준에)도달하다
+
+subsequent
+> adj. 후속, 뒤따라오는
+
+vastly
+> adv. 엄청나게
+
+influence
+> n. 영향   
+> v. -에 영향을 미치다
+
+encounter
+> v. 만나다, 부닥치다, 당하다, 교전하다
+
+mention
+> v. 언급하다
 
