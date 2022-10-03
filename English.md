@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-whenever
-> conj. ~할 때는 언제나
-
-grab a seat
-> pv. 자리를 잡다
-
-typically
-> adv. 일반적으로
-
 while
 > adv. ~하는 동안
 
@@ -1113,7 +1104,7 @@ act as -
 
 temporarily
 > adv. 일시적으로
-# test
+
 least
 > adj. 가장 작은(적은)
 
@@ -1136,15 +1127,12 @@ limitation
 flow-through
 > n. 통과
 
-qualified
-> adj. 인증된
-
 investment
 > n. 투자
 
 entity
 > n. 엔티티, 실재, 법인, 개체
-
+# test
 replace
 > v. 바꾸다, 교체하다
 
@@ -2138,4 +2126,16 @@ encounter
 
 mention
 > v. 언급하다
+
+qualified
+> adj. 인증된
+
+whenever
+> conj. -할 때는 언제나
+
+grab a seat
+> pv. 자리를 잡다
+
+typically
+> adv. 일반적으로
 

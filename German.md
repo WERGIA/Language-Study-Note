@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-laufen [láʊfǝn]
-> v. 달리다, 뛰다
-
-Im Allgemeinen [im_Állgemeínen]
-> adv. 일반적으로
-
-muss [mʊs]
-> v. müssen의 1·3인칭 단수 현재형, -해야 한다
-
 billig [bɪ́lɪç]
 > adj. 값이 싼
 
@@ -363,9 +354,6 @@ Sein(Seine) [zaɪn]
 Deutsch [dɔʏtʃ]
 > adj. 독일의, 독일에 관한
 > n. 독일어
-# test
-fahren [fá:rǝn]
-> v. 타고 가다
 
 lernen [lέrnǝn]
 > v. 배우다, 기술을 습득하다
@@ -375,9 +363,6 @@ beginnen [bǝɡɪ́nǝn]
 
 Bier [bi:r]
 > n. 맥주
-
-ohne [ó:nǝ]
-> prep. -없이
 
 Uhr [u:r]
 > n. 시계
@@ -393,7 +378,7 @@ oder [ó:dǝr]
 
 jetzt [jεtst]
 > adv. 지금
-
+# test
 berühmt [bǝrý:mt]
 > adj. 유명한
 
@@ -435,4 +420,19 @@ läuft [lɔʏft]
 
 nicht [nɪçt]
 > adv. not, 아닌, 아니다, 않다
+
+fahren [fá:rǝn]
+> v. 타고 가다
+
+ohne [ó:nǝ]
+> prep. -없이
+
+laufen [láʊfǝn]
+> v. 달리다, 뛰다
+
+Im Allgemeinen [im_Állgemeínen]
+> adv. 일반적으로
+
+muss [mʊs]
+> v. müssen의 1·3인칭 단수 현재형, -해야 한다
 
