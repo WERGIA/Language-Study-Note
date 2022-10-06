@@ -37,18 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-while
-> adv. ~하는 동안
-
-except for -
-> prep. -을 제외하고
-
-suited
-> adj. 적합한
-
-exclude
-> v. 들어오지 못하게 하다, 배척하다
-
 squirm
 > v. 몸부림치다. 꿈틀거리다
 
@@ -1132,12 +1120,9 @@ investment
 
 entity
 > n. 엔티티, 실재, 법인, 개체
-# test
+
 replace
 > v. 바꾸다, 교체하다
-
-inherent
-> adj. 타고난, 내재된, 본질적인
 
 mediate
 > v. 중재하다
@@ -1159,10 +1144,7 @@ diagnosis
 
 accquire
 > v. 얻다
-
-unsevered
-> adj. 절단되지 않은
-
+# test
 crops
 > n. 작물, 농작물
 
@@ -2138,4 +2120,21 @@ grab a seat
 
 typically
 > adv. 일반적으로
+
+inherent
+> adj. 타고난, 내재된, 본질적인
+
+# 23
+
+unsevered
+> adj. 절단되지 않은
+
+except for -
+> prep. -을 제외하고
+
+suited
+> adj. 적합한
+
+exclude
+> v. 들어오지 못하게 하다, 배척하다
 

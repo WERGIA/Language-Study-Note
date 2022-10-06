@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-billig [bɪ́lɪç]
-> adj. 값이 싼
-
-wunderbar [wúnderbar]
-> adj. 아주 멋진
-
-Schwester [ʃvέstǝr]
-> n. 자매
-
 Bruder [brú:dǝr]
 > n. 형제
 
@@ -378,7 +369,7 @@ oder [ó:dǝr]
 
 jetzt [jεtst]
 > adv. 지금
-# test
+
 berühmt [bǝrý:mt]
 > adj. 유명한
 
@@ -408,7 +399,7 @@ müssen [mʏ́sǝn]
 
 hier [hi:r]
 > adv. 여기
-
+# test
 können [kœ́nǝn]
 > v. 할 수 있다
 
@@ -435,4 +426,13 @@ Im Allgemeinen [im_Állgemeínen]
 
 muss [mʊs]
 > v. müssen의 1·3인칭 단수 현재형, -해야 한다
+
+billig [bɪ́lɪç]
+> adj. 값이 싼
+
+wunderbar [wúnderbar]
+> adj. 아주 멋진
+
+Schwester [ʃvέstǝr]
+> n. 자매
 
