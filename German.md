@@ -36,16 +36,7 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-
-Bruder [brú:dǝr]
-> n. 형제
-
-Mann [man]
-> n. 남성, 남편
-
-ausländisch [ˈaʊ̯slɛndɪʃ]
-> adj. 외국의
-
+# test
 Einzelperson [ˈaɪ̯nʦl̩pɛʁˌzoːn]
 > n. 개인
 
@@ -180,7 +171,7 @@ sieht [zi:t]
 
 sehen [zé:ǝn]
 > v. 보다
-# test
+
 klug [klu:k]
 > adj. 똑똑한
 
@@ -399,7 +390,7 @@ müssen [mʏ́sǝn]
 
 hier [hi:r]
 > adv. 여기
-# test
+
 können [kœ́nǝn]
 > v. 할 수 있다
 
@@ -435,4 +426,28 @@ wunderbar [wúnderbar]
 
 Schwester [ʃvέstǝr]
 > n. 자매
+
+Auge [áuɡǝ]
+> n. 눈, 안구, 시력
+
+Baum [baum]
+> n. 나무
+
+Eis [aɪs]
+> n. 얼음
+
+Mai [maɪ]
+> n. 5월, 봄
+
+Bayern [báɪǝrn]
+> n. 바이에른 지방
+
+Bruder [brú:dǝr]
+> n. 형제
+
+Mann [man]
+> n. 남성, 남편
+
+ausländisch [ˈaʊ̯slɛndɪʃ]
+> adj. 외국의
 

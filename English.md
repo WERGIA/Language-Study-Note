@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-squirm
-> v. 몸부림치다. 꿈틀거리다
-
-will
-> v. ~할 것이다.
-
-either
-> pron. 어느 한 쪽, 어느 쪽인가
-
 iterate
 > v. 반복하다
 
@@ -1144,18 +1135,12 @@ diagnosis
 
 accquire
 > v. 얻다
-# test
+
 crops
 > n. 작물, 농작물
 
 reversal
 > n. 반전, 역전
-
-wary
-> adj. 조심성있는, 경계하는
-
-otherwise
-> adj. 그렇지 않으면
 
 via
 > v. 통하다   
@@ -1167,16 +1152,10 @@ democratize
 previsualize
 > n. 사전시각화
 
-rapidly
-> adv. 빠르게
-
 below
 > prep. 이하  
 > adv. -의 아래에
-
-notional
-> adj. 명목상의, 개념적인
-
+# test
 uncertainty
 > n. 불확실성
 
@@ -2137,4 +2116,28 @@ suited
 
 exclude
 > v. 들어오지 못하게 하다, 배척하다
+
+wary
+> adj. 조심성있는, 경계하는
+
+otherwise
+> adj. 그렇지 않으면
+
+rapidly
+> adv. 빠르게
+
+notional
+> adj. 명목상의, 개념적인
+
+timber
+> n. 목재
+
+squirm
+> v. 몸부림치다. 꿈틀거리다
+
+will
+> v. -할 것이다.
+
+either
+> pron. 어느 한 쪽, 어느 쪽인가
 
