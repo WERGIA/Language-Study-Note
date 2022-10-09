@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-iterate
-> v. 반복하다
-
-increment
-> n. 증가
-
-embed
-> v. 끼워넣다
-
 abstract
 > n. 추상, 요약
 
@@ -1155,12 +1146,6 @@ previsualize
 below
 > prep. 이하  
 > adv. -의 아래에
-# test
-uncertainty
-> n. 불확실성
-
-suspend
-> v. 매달다, 연기하다, 유보하다
 
 capable
 > adj. 유능한, 자격이 있는
@@ -1180,12 +1165,9 @@ explain
 describe
 > v. 묘사하다, 설명하다, 평하다
 
-eligible
-> adj. 자격이 있는
-
 deferred
 > adj. 연기된
-
+# test
 orbit
 > n. 궤도
 
@@ -2140,4 +2122,22 @@ will
 
 either
 > pron. 어느 한 쪽, 어느 쪽인가
+
+uncertainty
+> n. 불확실성
+
+suspend
+> v. 매달다, 연기하다, 유보하다
+
+eligible
+> adj. 자격이 있는
+
+iterate
+> v. 반복하다
+
+increment
+> n. 증가
+
+embed
+> v. 끼워넣다
 

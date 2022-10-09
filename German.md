@@ -36,15 +36,6 @@ idiom. 관용어구 idiom
 art. 관사 article
 
 # 2
-# test
-Einzelperson [ˈaɪ̯nʦl̩pɛʁˌzoːn]
-> n. 개인
-
-jeder [jé:dǝr]
-> pron. 각각의, 저마다의, 모든
-
-machen [máxǝn]
-> v. 만들다
 
 Danke Schön [ˈdaŋkə_ʃøːn]
 > g. 감사합니다
@@ -52,21 +43,12 @@ Danke Schön [ˈdaŋkə_ʃøːn]
 Auf Wiedersehen [aʊ̯f_ˈviːdɐˌzeːən]
 > g. 다음에 다시 봐요
 
-Du [du:]
-> n. you, 당신, 너
-
 bevollmächtigen [bǝfɔ́lmεçtɪɡǝn]
 > v. 누구에게 무엇의 전권을 맡기다
 
 Gesellschaft [ɡǝzέlʃaft]
 > n. 회사
-
-Frau [fraʊ]
-> n. 부인, 아내
-
-Sohn [zo:n]
-> n. 아들
-
+# test
 Tochter [tɔ́xtǝr]
 > n. 딸
 
@@ -450,4 +432,28 @@ Mann [man]
 
 ausländisch [ˈaʊ̯slɛndɪʃ]
 > adj. 외국의
+
+Einzelperson [ˈaɪ̯nʦl̩pɛʁˌzoːn]
+> n. 개인
+
+jeder [jé:dǝr]
+> pron. 각각의, 저마다의, 모든
+
+machen [máxǝn]
+> v. 만들다
+
+heute [hɔ́ytǝ]
+> adv. 오늘
+
+Bäume [ˈbɔʏmə]
+> n. 나무(복수형)
+
+Häuser [ˈhɔʏ̯zɐ]
+> n. 집(복수형)
+
+Familie [famí:liǝ]
+> n. 가족
+
+Linie [lí:niǝ]
+> n. 선, 줄
 
