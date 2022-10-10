@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-abstract
-> n. 추상, 요약
-
-purely
-> adv. 전혀, 순수하게
-
-propose
-> v. 제안하다
-
 timestamp
 > v. 시간 또는 날짜를 기록하다
 
@@ -1167,12 +1158,9 @@ describe
 
 deferred
 > adj. 연기된
-# test
+
 orbit
 > n. 궤도
-
-concatenation
-> n. 연쇄, 연속
 
 unless
 > conj. 그렇지 않으면
@@ -1189,15 +1177,9 @@ each
 expand
 > v. 넓히다, 확장하다
 
-nongrantor
-> n. 비수여자
-
-indebtedness
-> n. 부채
-
 earning
 > n. 수입
-
+# test 
 attempt
 > n. 시도
 
@@ -2140,4 +2122,22 @@ increment
 
 embed
 > v. 끼워넣다
+
+concatenation
+> n. 연쇄, 연속
+
+nongrantor
+> n. 비수여자
+
+indebtedness
+> n. 부채
+
+abstract
+> n. 추상, 요약
+
+purely
+> adv. 전혀, 순수하게
+
+propose
+> v. 제안하다
 

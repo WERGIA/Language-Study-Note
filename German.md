@@ -37,18 +37,9 @@ art. 관사 article
 
 # 2
 
-Danke Schön [ˈdaŋkə_ʃøːn]
-> g. 감사합니다
-
-Auf Wiedersehen [aʊ̯f_ˈviːdɐˌzeːən]
-> g. 다음에 다시 봐요
-
-bevollmächtigen [bǝfɔ́lmεçtɪɡǝn]
-> v. 누구에게 무엇의 전권을 맡기다
-
 Gesellschaft [ɡǝzέlʃaft]
 > n. 회사
-# test
+
 Tochter [tɔ́xtǝr]
 > n. 딸
 
@@ -57,15 +48,6 @@ mit [mɪt]
 
 in [ɪn]
 > prep. 무엇의 안(가운데)에
-
-Vater [fá:tǝr]
-> n. 아버지
-
-Ich [ɪç]
-> n. 나
-
-und [ʊnt]
-> conj. 그리고
 
 Vereinigten Staaten [fεr│áinɪgǝn_ʃtá:tǝn]
 > n. 미국
@@ -78,7 +60,7 @@ mögen [mǿ:ɡǝn]
 
 Jacke [jákǝ]
 > n. 자켓, 외투
-
+# test
 ein(eine) [aɪn(áɪnǝ)]
 > art. 영어에서 a와 비슷한 용도로 사용
 
@@ -456,4 +438,13 @@ Familie [famí:liǝ]
 
 Linie [lí:niǝ]
 > n. 선, 줄
+
+Danke Schön [ˈdaŋkə_ʃøːn]
+> g. 감사합니다
+
+Auf Wiedersehen [aʊ̯f_ˈviːdɐˌzeːən]
+> g. 다음에 다시 봐요
+
+bevollmächtigen [bǝfɔ́lmεçtɪɡǝn]
+> v. (누구에게 무엇의)전권을 맡기다
 
