@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Gesellschaft [ɡǝzέlʃaft]
-> n. 회사
-
-Tochter [tɔ́xtǝr]
-> n. 딸
-
-mit [mɪt]
-> prep. -와 함께, -와 더불어, -을 데리고
-
 in [ɪn]
 > prep. 무엇의 안(가운데)에
 
@@ -60,7 +51,7 @@ mögen [mǿ:ɡǝn]
 
 Jacke [jákǝ]
 > n. 자켓, 외투
-# test
+
 ein(eine) [aɪn(áɪnǝ)]
 > art. 영어에서 a와 비슷한 용도로 사용
 
@@ -70,27 +61,15 @@ Einkommen [ˈaɪ̯nˌkɔmən]
 weiche [vaɪç]
 > adj. 부드러운
 
-nett [nεt]
-> adj. 친절한
-
-sehr [ze:r]
-> adv. 아주, 매우
-
-Arzt [a:rtst]
-> n. 의사
-
 direkt [dirέkt]
 > adj. 직접의
-
-von [fɔn]
-> prep. -에서, -로부터
 
 im [ɪm]
 > prep. -에서
 
 Supermarkt [ˈzuːpɐˌmaʁkt]
 > n. 슈퍼 마켓
-
+# test
 kommt [kɔmt]
 > v. kommen의 3인칭 단수형, 오다
 
@@ -447,4 +426,16 @@ Auf Wiedersehen [aʊ̯f_ˈviːdɐˌzeːən]
 
 bevollmächtigen [bǝfɔ́lmεçtɪɡǝn]
 > v. (누구에게 무엇의)전권을 맡기다
+
+von [fɔn]
+> prep. -에서, -로부터
+
+Gesellschaft [ɡǝzέlʃaft]
+> n. 회사
+
+Tochter [tɔ́xtǝr]
+> n. 딸
+
+mit [mɪt]
+> prep. -와 함께, -와 더불어, -을 데리고
 

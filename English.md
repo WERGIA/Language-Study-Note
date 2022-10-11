@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-timestamp
-> v. 시간 또는 날짜를 기록하다
-
-instead of
-> prep. ~대신에
-
-pick out
-> pv. 골라내다
-
 outpace
 > v. 앞지르다
 
@@ -1179,7 +1170,7 @@ expand
 
 earning
 > n. 수입
-# test 
+
 attempt
 > n. 시도
 
@@ -1200,16 +1191,7 @@ expose
 
 troubleshoot
 > n. 문제 해결
-
-procurement
-> n. 획득, 매상
-
-escrow
-> n. 조건부 날인 증서
-
-insurance
-> n. 보험
-
+# test 
 accomplishment
 > n. 성취
 
@@ -2140,4 +2122,22 @@ purely
 
 propose
 > v. 제안하다
+
+procurement
+> n. 획득, 매상
+
+escrow
+> n. 조건부 날인 증서
+
+insurance
+> n. 보험
+
+timestamp
+> v. 시간 또는 날짜를 기록하다
+
+instead of
+> prep. -대신에
+
+pick out
+> pv. 골라내다
 
