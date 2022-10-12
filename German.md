@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-in [ɪn]
-> prep. 무엇의 안(가운데)에
-
-Vereinigten Staaten [fεr│áinɪgǝn_ʃtá:tǝn]
-> n. 미국
-
-brauchen [bráʊxǝn]
-> v. 필요하다
-
 mögen [mǿ:ɡǝn]
 > v. 좋아하다
 
@@ -69,7 +60,7 @@ im [ɪm]
 
 Supermarkt [ˈzuːpɐˌmaʁkt]
 > n. 슈퍼 마켓
-# test
+
 kommt [kɔmt]
 > v. kommen의 3인칭 단수형, 오다
 
@@ -81,9 +72,6 @@ sind [zɪnt]
 
 zu [tsu:]
 > adv. to, -에게
-
-Sie [zi:]
-> n. 당신
 
 gut [ɡu:t]
 > adj. 잘, 잘된, 좋은
@@ -99,7 +87,7 @@ Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
 
 Hemd [hεmt]
 > n. 셔츠
-
+# test
 teuer [tɔ́ʏǝr]
 > adj. 비싼
 
@@ -438,4 +426,40 @@ Tochter [tɔ́xtǝr]
 
 mit [mɪt]
 > prep. -와 함께, -와 더불어, -을 데리고
+
+in [ɪn]
+> prep. 무엇의 안(가운데)에
+
+Vereinigten Staaten [fεr│áinɪgǝn_ʃtá:tǝn]
+> n. 미국
+
+brauchen [bráʊxǝn]
+> v. 필요하다
+
+Pause [páʊzǝ]
+> n. 휴식, 중지
+
+Suppe [zúpǝ]
+> n. 스프
+
+halb [halp]
+> adj. 절반의
+
+Tisch [tɪʃ]
+> n. 탁자, 책상
+
+Teather [teá:tǝr]
+> n. 연극, 극장
+
+Kind [kɪnt]
+> n. 아이
+
+Stadt [ʃtat]
+> n. 도시
+
+Ecke [έkǝ]
+> n. 모퉁이, 가장자리
+
+Tag [ta:k]
+> n. 낮, 날, 하루
 

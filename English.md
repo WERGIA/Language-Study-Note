@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-outpace
-> v. 앞지르다
-
-effort
-> n. 노력
-
-best effort
-> n. 최선의 노력
-
 properly
 > adv. 정확히
 
@@ -1191,7 +1182,7 @@ expose
 
 troubleshoot
 > n. 문제 해결
-# test 
+
 accomplishment
 > n. 성취
 
@@ -1201,27 +1192,18 @@ brief
 convey
 > v. 나르다, 전달하다
 
-exemption
-> n. 면제
-
 authority
 > n. 권한
 
 treaty
 > n. 조약, 약정
 
-exponential
-> adj. 지수의
-
-specify
-> v. 지정하다
-
 presentation
 > n. 소개, 제출, 표시, 연출
 
 unstable
 > adj. 불안정한
-
+# test 
 anywhere
 > pron. 어딘가   
 > adv. 어딘가에, 어디든지
@@ -2140,4 +2122,22 @@ instead of
 
 pick out
 > pv. 골라내다
+
+exemption
+> n. 면제
+
+exponential
+> adj. 지수의
+
+specify
+> v. 지정하다
+
+outpace
+> v. 앞지르다
+
+effort
+> n. 노력
+
+best effort
+> n. 최선의 노력
 
