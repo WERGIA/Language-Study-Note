@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-mögen [mǿ:ɡǝn]
-> v. 좋아하다
-
-Jacke [jákǝ]
-> n. 자켓, 외투
-
-ein(eine) [aɪn(áɪnǝ)]
-> art. 영어에서 a와 비슷한 용도로 사용
-
 Einkommen [ˈaɪ̯nˌkɔmən]
 > n. 소득, 봉급
 
@@ -87,7 +78,7 @@ Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
 
 Hemd [hεmt]
 > n. 셔츠
-# test
+
 teuer [tɔ́ʏǝr]
 > adj. 비싼
 
@@ -114,10 +105,7 @@ groß [ɡro:s]
 
 anfangen [ánfaŋǝn]
 > v. 시작하다
-
-Ball [bal]
-> n. 공
-
+# test
 Haar [ha:r]
 > n. 털, 머리카락
 
@@ -462,4 +450,29 @@ Ecke [έkǝ]
 
 Tag [ta:k]
 > n. 낮, 날, 하루
+
+mögen [mǿ:ɡǝn]
+> v. 좋아하다
+
+Jacke [jákǝ]
+> n. 자켓, 외투
+
+ein(eine) [aɪn(áɪnǝ)]
+> art. 영어에서 a와 비슷한 용도로 사용
+
+leben [lé:bǝn]
+> v. 살다, 살아있다
+
+Dank [daŋk]
+> n. 생각, 뜻  
+> n. 감사
+
+dein [daɪn]
+> pron. 너의
+
+Glas [ɡla:s]
+> n. 컵, 유리
+
+gern [ɡεrn]
+> adv. 기꺼이
 

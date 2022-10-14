@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-properly
-> adv. 정확히
-
-associate
-> v. 결합시키다, 관련시키다
-
-ecosystem
-> n. 생태계
-
 succeed
 > v. 성공하다
 
@@ -1203,16 +1194,10 @@ presentation
 
 unstable
 > adj. 불안정한
-# test 
+
 anywhere
 > pron. 어딘가   
 > adv. 어딘가에, 어디든지
-
-have been +pp
-> g. -되어 있다
-
-assume
-> v. 추정하다
 
 treat
 > v. 대하다, 대접하다, 치료하다, 취급하다
@@ -1231,10 +1216,7 @@ subtitle
 
 overkill
 > n. 지나침, 필요한 양을 초과함
-
-payee
-> n. 수취인
-
+# test 
 grandfathered
 > adj. 예외를 적용받는
 
@@ -2140,4 +2122,22 @@ effort
 
 best effort
 > n. 최선의 노력
+
+have been +pp
+> g. -되어 있다
+
+assume
+> v. 추정하다
+
+payee
+> n. 수취인
+
+properly
+> adv. 정확히
+
+associate
+> v. 결합시키다, 관련시키다
+
+ecosystem
+> n. 생태계
 
