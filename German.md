@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Einkommen [ˈaɪ̯nˌkɔmən]
-> n. 소득, 봉급
-
-weiche [vaɪç]
-> adj. 부드러운
-
-direkt [dirέkt]
-> adj. 직접의
-
 im [ɪm]
 > prep. -에서
 
@@ -105,7 +96,7 @@ groß [ɡro:s]
 
 anfangen [ánfaŋǝn]
 > v. 시작하다
-# test
+
 Haar [ha:r]
 > n. 털, 머리카락
 
@@ -121,9 +112,6 @@ Lehrer [lé:rǝr]
 Kino [ˈkiːno]
 > n. 영화관
 
-ihm [i:m]
-> pron. es의 3격, 그에게
-
 Monat [mó:nat]
 > n. 달, 월
 
@@ -137,7 +125,7 @@ Käse [kέ:zǝ]
 
 erzählen [εrtsέ:lǝn]
 > v. 이야기하다
-
+# test
 Söhne [zǿ:ne]
 > n. 아들의 복수형
 
@@ -300,9 +288,6 @@ Kaffee [káfe]
 
 mein(meine) [maɪn]
 > n. my, 나의
-
-öffnen [œ́fnǝn]
-> v. 열다
 
 müssen [mʏ́sǝn]
 > v. -해야 한다
@@ -475,4 +460,46 @@ Glas [ɡla:s]
 
 gern [ɡεrn]
 > adv. 기꺼이
+
+ihm [i:m]
+> pron. 그에게, es의 3격
+
+Einkommen [ˈaɪ̯nˌkɔmən]
+> n. 소득, 봉급
+
+weiche [vaɪç]
+> adj. 부드러운
+
+direkt [dirέkt]
+> adj. 직접의
+
+Kopf [kɔpf]
+> n. 머리
+
+Apfel [ápfǝl]
+> n. 사과
+
+Zimmer [tsɪ́mǝr]
+> n. 방
+
+Platz [plaʦ]
+> n. 광장, 자리
+
+Nichts [nɪçts]
+> n. 무, 없음, 공허
+
+abends [á:bǝnts]
+> adv. 저녁에
+
+Freund [frɔʏnt]
+> n. 친구
+
+öffnen [œ́fnǝn]
+> v. 열다
+
+Vater [fá:tǝr]
+> n. 아버지
+
+Photo [fó:to]
+> n. 사진
 

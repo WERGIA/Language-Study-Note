@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-succeed
-> v. 성공하다
-
-repository
-> n. 저장소
-
-concerned with -
-> pv. -에 관심을 가지다
-
 deliver
 > v. 가하다, 배달하다, 넘겨주다
 
@@ -706,9 +697,6 @@ displacement
 flatness
 > n. 평탄함, 평탄한 정도
 
-brought
-> v. bring의 과거형, 가져왔다
-
 crane
 > n. 기중기
 > v. 기중기로 물건을 옮기다
@@ -1216,18 +1204,12 @@ subtitle
 
 overkill
 > n. 지나침, 필요한 양을 초과함
-# test 
+
 grandfathered
 > adj. 예외를 적용받는
 
-participate
-> v. 참가하다
-
 deem
 > v. 간주하다
-
-deemed-compliant
-> adj. 준수하는 것으로 간주되는
 
 probably
 > adv. 아마
@@ -1242,12 +1224,9 @@ related
 territory
 > n. 영토
 
-presumption
-> n. 가정
-
 like above
 > adv. 위와 같이, 위와 같은
-
+# test 
 normally
 > adv. 정상적으로
 
@@ -2140,4 +2119,37 @@ associate
 
 ecosystem
 > n. 생태계
+
+participate
+> v. 참가하다
+
+deemed-compliant
+> adj. 준수하는 것으로 간주되는
+
+presumption
+> n. 가정
+
+wednesday
+> n. 수요일
+
+succeed
+> v. 성공하다
+
+repository
+> n. 저장소
+
+concerned with -
+> pv. -에 관심을 가지다
+
+brought
+> v. 가져왔다, bring의 과거형 
+
+cushion
+> n. 쿠션
+
+passenger
+> n. 승객
+
+bought
+> v. 샀다, buy의 과거형
 
