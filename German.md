@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-kommen [kɔ́mǝn]
-> v. 오다
-
-sind [zɪnt]
-> v. are, sein의 1·3인칭 복수 현재형
-
-zu [tsu:]
-> adv. to, -에게
-
 gut [ɡu:t]
 > adj. 잘, 잘된, 좋은
 
@@ -146,15 +137,12 @@ unter [ʊ́ntǝr]
 
 Hände [ˈhɛndə]
 > n. 손, Hand의 복수형
-# test
+
 Gärten [ɡɛrtǝn]
 > n. 정원, Garten의 복수형
 
 dünn [dʏn]
 > adj. 얇은, 마른
-
-Hand [hant]
-> n. 손
 
 Garten [ɡártǝn]
 > n. 정원
@@ -179,7 +167,7 @@ Schwarz [ʃvarts]
 
 Wo [vo:]
 > n. where, 어디
-
+# test
 schön [ʃø:n]
 > adj. 아름다운
 
@@ -504,4 +492,13 @@ Supermarkt [ˈzuːpɐˌmaʁkt]
 
 kommt [kɔmt]
 > v. kommen의 3인칭 단수형, 오다
+
+kommen [kɔ́mǝn]
+> v. 오다
+
+sind [zɪnt]
+> v. are, sein의 1·3인칭 복수 현재형
+
+zu [tsu:]
+> adv. -에게, to 
 

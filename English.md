@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-hoist
-> v. 감아올리다, (깃발 따위를)계양하다
-
-suggest
-> v. 제안하다
-
-infrastructure
-> n. 하부구조
-
 commerce
 > n. 상업
 
@@ -1232,7 +1223,7 @@ reject
 
 enhance
 > v. (지위, 수준, 가치 등을) 높이다
-# test 
+
 recognize
 > v. 인식하다, 인정하다
 
@@ -1262,7 +1253,7 @@ check whether
 
 implicit
 > adj. 절대적인, 암시적인
-
+# test 
 nonconcenting
 > adj. 동의하지 않는
 
@@ -2152,4 +2143,13 @@ awful
 
 specifically
 > adv. 구체적으로 특별히
+
+hoist
+> v. 감아올리다, (깃발 따위를)계양하다
+
+suggest
+> v. 제안하다
+
+infrastructure
+> n. 하부구조
 
