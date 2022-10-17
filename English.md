@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-deliver
-> v. 가하다, 배달하다, 넘겨주다
-
-awful
-> adj. 무서운, 끔찍한
-
-specifically
-> adv. 구체적으로 특별히
-
 hoist
 > v. 감아올리다, (깃발 따위를)계양하다
 
@@ -1226,12 +1217,9 @@ territory
 
 like above
 > adv. 위와 같이, 위와 같은
-# test 
+
 normally
 > adv. 정상적으로
-
-occupy
-> v. 점거하다, 차지하다
 
 instantaneously
 > adv. 순간적으로
@@ -1242,21 +1230,9 @@ dependent
 reject
 > v. 받지 않다, 거절하다
 
-compensation
-> n. 보상
-
-occupation
-> n. 직업
-
-attributable
-> adj. -가 원인인, -에 기인하는
-
 enhance
 > v. (지위, 수준, 가치 등을) 높이다
-
-appropriate
-> adj. 적당한, 특유한, 적절한
-
+# test 
 recognize
 > v. 인식하다, 인정하다
 
@@ -2152,4 +2128,28 @@ passenger
 
 bought
 > v. 샀다, buy의 과거형
+
+occupy
+> v. 점거하다, 차지하다
+
+compensation
+> n. 보상
+
+occupation
+> n. 직업
+
+attributable
+> adj. -가 원인인, -에 기인하는
+
+appropriate
+> adj. 적당한, 특유한, 적절한
+
+deliver
+> v. 가하다, 배달하다, 넘겨주다
+
+awful
+> adj. 무서운, 끔찍한
+
+specifically
+> adv. 구체적으로 특별히
 

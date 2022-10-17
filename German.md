@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-im [ɪm]
-> prep. -에서
-
-Supermarkt [ˈzuːpɐˌmaʁkt]
-> n. 슈퍼 마켓
-
-kommt [kɔmt]
-> v. kommen의 3인칭 단수형, 오다
-
 kommen [kɔ́mǝn]
 > v. 오다
 
@@ -125,7 +116,7 @@ Käse [kέ:zǝ]
 
 erzählen [εrtsέ:lǝn]
 > v. 이야기하다
-# test
+
 Söhne [zǿ:ne]
 > n. 아들의 복수형
 
@@ -155,7 +146,7 @@ unter [ʊ́ntǝr]
 
 Hände [ˈhɛndə]
 > n. 손, Hand의 복수형
-
+# test
 Gärten [ɡɛrtǝn]
 > n. 정원, Garten의 복수형
 
@@ -502,4 +493,15 @@ Vater [fá:tǝr]
 
 Photo [fó:to]
 > n. 사진
+
+im [ɪm]
+> prep. -에서
+
+# 4
+
+Supermarkt [ˈzuːpɐˌmaʁkt]
+> n. 슈퍼 마켓
+
+kommt [kɔmt]
+> v. kommen의 3인칭 단수형, 오다
 
