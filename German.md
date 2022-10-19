@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-gut [ɡu:t]
-> adj. 잘, 잘된, 좋은
-
-reich [raɪç]
-> adj. 부유한
-
-den [de(:)n]
-> pron. der의 단수 4격
-
 Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
 > n. 용서, 변명, 사과
 
@@ -167,7 +158,7 @@ Schwarz [ʃvarts]
 
 Wo [vo:]
 > n. where, 어디
-# test
+
 schön [ʃø:n]
 > adj. 아름다운
 
@@ -197,7 +188,7 @@ Wasser [vásǝr]
 
 Tee [te:]
 > n. 차
-
+# test
 Ausübung [aʊ́s|ʏ́bung]
 > n. 실행, 집행
 
@@ -501,4 +492,13 @@ sind [zɪnt]
 
 zu [tsu:]
 > adv. -에게, to 
+
+gut [ɡu:t]
+> adj. 잘, 잘된, 좋은
+
+reich [raɪç]
+> adj. 부유한
+
+den [de(:)n]
+> pron. der의 단수 4격
 

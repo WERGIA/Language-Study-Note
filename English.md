@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-commerce
-> n. 상업
-
-rely
-> v. 의지하다
-
-exclusively
-> adv. 독점적으로, 전적으로
-
 suffer
 > v. (나쁘거나 불쾌한 것을) 참다, 경험하다, 고통을 겪다
 
@@ -1253,18 +1244,9 @@ check whether
 
 implicit
 > adj. 절대적인, 암시적인
-# test 
-nonconcenting
-> adj. 동의하지 않는
-
-dormant
-> adj. 잠자는, 휴지상태에 있는
 
 pursuant to
 > prep. -에 따라서
-
-sparse
-> adj. 희박한, 부족한
 
 dense
 > adj. 밀집한
@@ -1283,7 +1265,7 @@ manually
 
 amend
 > v. 개정하다
-
+# test 
 allowance
 > n. 수당
 
@@ -2152,4 +2134,22 @@ suggest
 
 infrastructure
 > n. 하부구조
+
+nonconcenting
+> adj. 동의하지 않는
+
+dormant
+> adj. 잠자는, 휴지상태에 있는
+
+sparse
+> adj. 희박한, 부족한
+
+commerce
+> n. 상업
+
+rely
+> v. 의지하다
+
+exclusively
+> adv. 독점적으로, 전적으로
 
