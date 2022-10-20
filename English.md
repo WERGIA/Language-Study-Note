@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-suffer
-> v. (나쁘거나 불쾌한 것을) 참다, 경험하다, 고통을 겪다
-
-reversible
-> adj. 거꾸로 할 수 있는, 가역적인, 되돌릴 수 있는
-
-practical
-> adj. 실제의, 실용적인
-
 cut off
 > pv. 끊다, 차단하다
 
@@ -1265,7 +1256,7 @@ manually
 
 amend
 > v. 개정하다
-# test 
+
 allowance
 > n. 수당
 
@@ -1274,28 +1265,7 @@ pro-rata
 
 fallback
 > n. 비상시에 사용할 수 있는 대체 계획
-
-correspondence
-> n. 밀접한 유사성, 연결 또는 동등성
-
-simultaneous
-> adj. 동시에 발생, 작동 또는 수행되는
-
-fiduciary
-> n. 수탁자
-
-conduct
-> n. 행위, 경영
-
-engaged
-> adj. 약속된
-
-liability
-> n. 책임
-
-satisfied
-> adj. 만족하는
-
+# test
 reasonable
 > adj. 합리적인
 
@@ -2152,4 +2122,34 @@ rely
 
 exclusively
 > adv. 독점적으로, 전적으로
+
+correspondence
+> n. 서신, 편지
+
+simultaneous
+> adj. 동시의
+
+fiduciary
+> n. 수탁자
+
+conduct
+> n. 행위, 경영
+
+engaged
+> adj. 약속된
+
+liability
+> n. 책임
+
+satisfied
+> adj. 만족하는
+
+suffer
+> v. (나쁘거나 불쾌한 것을) 참다, 경험하다, 고통을 겪다
+
+reversible
+> adj. 거꾸로 할 수 있는, 가역적인, 되돌릴 수 있는
+
+practical
+> adj. 실제의, 실용적인
 

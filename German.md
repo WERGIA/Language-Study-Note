@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
-> n. 용서, 변명, 사과
-
-Hemd [hεmt]
-> n. 셔츠
-
-teuer [tɔ́ʏǝr]
-> adj. 비싼
-
 krank [kraŋk]
 > adj. 아픈
 
@@ -188,7 +179,7 @@ Wasser [vásǝr]
 
 Tee [te:]
 > n. 차
-# test
+
 Ausübung [aʊ́s|ʏ́bung]
 > n. 실행, 집행
 
@@ -219,7 +210,7 @@ lernen [lέrnǝn]
 
 beginnen [bǝɡɪ́nǝn]
 > v. 시작하다
-
+# test
 Bier [bi:r]
 > n. 맥주
 
@@ -501,4 +492,13 @@ reich [raɪç]
 
 den [de(:)n]
 > pron. der의 단수 4격
+
+Entschuldigung [εnt│ʃʊ́ldɪɡʊŋ]
+> n. 용서, 변명, 사과
+
+Hemd [hεmt]
+> n. 셔츠
+
+teuer [tɔ́ʏǝr]
+> adj. 비싼
 
