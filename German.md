@@ -37,15 +37,6 @@ art. 관사 article
 
 # 2
 
-krank [kraŋk]
-> adj. 아픈
-
-Was [vas]
-> n. what, 무엇
-
-sieht [zi:t]
-> v. 보다, sehen의 3인칭 단수 현재형
-
 sehen [zé:ǝn]
 > v. 보다
 
@@ -210,7 +201,7 @@ lernen [lέrnǝn]
 
 beginnen [bǝɡɪ́nǝn]
 > v. 시작하다
-# test
+
 Bier [bi:r]
 > n. 맥주
 
@@ -240,7 +231,7 @@ ja [ja:]
 
 bitte [ˈbɪtə]
 > adv. please, 정중한 요청
-
+# test
 Milch [mɪlç]
 > n. 우유
 
@@ -263,7 +254,7 @@ Flughafen [ˈfluːkˌhaːfn̩]
 > n. 공항
 
 läuft [lɔʏft]
-> v. laufen의 3인칭 단수 현재형, 달리다
+> v. 달리다, laufen의 3인칭 단수 현재형
 
 nicht [nɪçt]
 > adv. not, 아닌, 아니다, 않다
@@ -501,4 +492,13 @@ Hemd [hεmt]
 
 teuer [tɔ́ʏǝr]
 > adj. 비싼
+
+krank [kraŋk]
+> adj. 아픈
+
+Was [vas]
+> n. what, 무엇
+
+sieht [zi:t]
+> v. 보다, sehen의 3인칭 단수 현재형
 

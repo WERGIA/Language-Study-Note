@@ -37,15 +37,6 @@ pat. 회화패턴 pattern
 
 # 14
 
-cut off
-> pv. 끊다, 차단하다
-
-possibility
-> n. 가능성
-
-broad
-> adj. (개념적인 면에서) 넓은
-
 wide
 > adj. (물리적인 넓이나 폭이) 넓은
 
@@ -1265,7 +1256,7 @@ pro-rata
 
 fallback
 > n. 비상시에 사용할 수 있는 대체 계획
-# test
+
 reasonable
 > adj. 합리적인
 
@@ -1279,24 +1270,15 @@ necessary
 consistency
 > n. 일관성
 
-salient
-> adj. 가장 눈에 띄거나 중요한
-
 fuse
 > v. 결합하다, 혼합하다
-
-exceed
-> v. 초과하다, 한도를 넘다
-
-whether
-> conj. -인지 어떤지, -이든지 아니든지, -하는지에 대한 여부
 
 adjust
 > v. 맞추다, 조정하다, 조절하다
 
 make sure
 > pv. 확인하다
-
+# test
 find out
 > pv. 찾아내다, 발견하다
 
@@ -2152,4 +2134,22 @@ reversible
 
 practical
 > adj. 실제의, 실용적인
+
+salient
+> adj. 가장 중요한
+
+exceed
+> v. 초과하다, 한도를 넘다
+
+whether
+> conj. -인지 어떤지, -이든지 아니든지, -하는지에 대한 여부
+
+cut off
+> pv. 끊다, 차단하다
+
+possibility
+> n. 가능성
+
+broad
+> adj. (개념적인 면에서) 넓은
 
